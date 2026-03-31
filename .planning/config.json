@@ -1,0 +1,12 @@
+{
+  "project": "naturprogramme",
+  "description": "B2B nature pedagogy programs for schools, NGOs, and Vereine in Upper Austria",
+  "mode": "interactive",
+  "depth": "standard",
+  "project_type": "outreach",
+  "features": {
+    "research": false,
+    "plan_check": true,
+    "verifier": true
+  }
+}

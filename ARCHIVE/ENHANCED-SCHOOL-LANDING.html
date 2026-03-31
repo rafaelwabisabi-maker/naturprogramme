@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light">
+    <meta name="description" content="Naturbasierte Resilienz-Programme für Jugendliche. Elisabeth Braunschmid verbindet Wildnispädagogik mit Sozialarbeit für nachhaltige Gruppendynamik und Selbstregulation.">
+    <title>Elisabeth Braunschmid - Naturpädagogik für Schulen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html {
+            color-scheme: light;
+            background: #f5f1ed;
+        }
+        
+        :root {
+            color-scheme: light;
+            --cream-bg: #f5f1ed;
+            --white: #ffffff;
+            --text-dark: #3d3935;
+            --text-medium: #6b6560;
+            --text-light: #9a9490;
+            --teal-button: #3d5a52;
+            --teal-hover: #4a6b61;
+            --card-border: #e8e4df;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.7;
+            color: #4a4541 !important;
+            background: #f5f1ed !important;
+            background-color: #f5f1ed !important;
+        }
+        
+        /* Navigation */
+        nav {
+            background: #f5f1ed !important;
+            background-color: #f5f1ed !important;
+            border-bottom: 1px solid var(--card-border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            padding: 1.2rem 0;
+        }
+        
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        nav .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+        
+        nav .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 2.5rem;
+        }
+        
+        nav .nav-links a {
+            text-decoration: none;
+            color: var(--text-medium);
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+        
+        nav .nav-links a:hover {
+            color: var(--text-dark);
+        }
+        
+        nav .btn-nav {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.6rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        
+        nav .btn-nav:hover {
+            background: var(--teal-hover);
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 3rem;
+        }
+        
+        /* Hero Section */
+        .hero {
+            padding: 6rem 0 5rem;
+        }
+        
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6rem;
+            align-items: center;
+        }
+        
+        .hero-content h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.5rem;
+            font-weight: 600;
+            line-height: 1.15;
+            margin-bottom: 1.5rem;
+            color: var(--text-dark);
+        }
+        
+        .hero-content .subtitle {
+            font-size: 1.3rem;
+            color: var(--text-medium);
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+        
+        .hero-content .flexibility {
+            font-size: 1.05rem;
+            color: var(--teal-button);
+            font-weight: 500;
+            margin-bottom: 2.5rem;
+        }
+        
+        .hero-content .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.85rem 2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            display: inline-block;
+            transition: background 0.2s;
+            margin-bottom: 1rem;
+        }
+        
+        .hero-content .btn:hover {
+            background: var(--teal-hover);
+        }
+        
+        .hero-content .subtext {
+            font-size: 0.9rem;
+            color: var(--text-light);
+        }
+        
+        .hero-image {
+            width: 100%;
+            height: 450px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .hero-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        /* Trust Bar */
+        .trust-bar {
+            padding: 3rem 0;
+            border-top: 1px solid var(--card-border);
+            border-bottom: 1px solid var(--card-border);
+        }
+        
+        .trust-bar .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5rem;
+            flex-wrap: wrap;
+        }
+        
+        .trust-item {
+            text-align: center;
+        }
+        
+        .trust-item .number {
+            font-size: 2.2rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 0.3rem;
+        }
+        
+        .trust-item .label {
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+        
+        /* Section */
+        section {
+            padding: 5rem 0;
+        }
+        
+        .section-title {
+            font-family: 'Playfair Display', serif;
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+        
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.05rem;
+            color: var(--text-medium);
+            margin-bottom: 4rem;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.7;
+        }
+        
+        /* Quote Section */
+        .quote-section {
+            background: white;
+            border-left: 4px solid var(--teal-button);
+            padding: 3rem 3rem;
+            border-radius: 8px;
+            margin: 4rem auto;
+            max-width: 900px;
+        }
+        
+        .quote-section p {
+            font-size: 1.3rem;
+            line-height: 1.7;
+            color: var(--text-dark);
+            font-style: italic;
+            font-family: 'Playfair Display', serif;
+        }
+        
+        .quote-author {
+            margin-top: 1.5rem;
+            font-size: 0.95rem;
+            color: var(--text-medium);
+            font-style: normal;
+            font-family: 'Inter', sans-serif;
+        }
+        
+        /* Icon Cards */
+        .icon-cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 4rem;
+        }
+        
+        .icon-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem 2rem;
+            transition: box-shadow 0.2s;
+        }
+        
+        .icon-card:hover {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+        }
+        
+        .icon-card .icon {
+            width: 48px;
+            height: 48px;
+            background: var(--cream-bg);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1.5rem;
+            color: var(--text-dark);
+            font-size: 1.5rem;
+        }
+        
+        .icon-card h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+        
+        .icon-card p {
+            color: var(--text-medium);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+        
+        /* Testimonial Cards */
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .testimonial-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            transition: box-shadow 0.2s;
+        }
+        
+        .testimonial-card:hover {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+        }
+        
+        .testimonial-card p {
+            color: var(--text-medium);
+            font-size: 1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            font-style: italic;
+        }
+        
+        .testimonial-card .author {
+            color: var(--text-light);
+            font-size: 0.85rem;
+            font-style: normal;
+        }
+        
+        /* Lead Magnet Section */
+        .lead-magnet {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 4rem 3rem;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .lead-magnet h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 1rem;
+        }
+        
+        .lead-magnet p {
+            font-size: 1.1rem;
+            color: var(--text-medium);
+            margin-bottom: 2rem;
+        }
+        
+        .lead-magnet ul {
+            list-style: none;
+            margin: 2rem 0;
+            text-align: left;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .lead-magnet li {
+            padding: 0.6rem 0;
+            padding-left: 2rem;
+            position: relative;
+            color: var(--text-medium);
+        }
+        
+        .lead-magnet li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+            font-weight: 600;
+        }
+        
+        .lead-magnet .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.85rem 2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            display: inline-block;
+            transition: background 0.2s;
+        }
+        
+        .lead-magnet .btn:hover {
+            background: var(--teal-hover);
+        }
+        
+        /* Mini Gallery */
+        .mini-gallery {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .mini-gallery-item {
+            width: 100%;
+            height: 200px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .mini-gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+        
+        .mini-gallery-item:hover img {
+            transform: scale(1.05);
+        }
+        
+        /* About Layout */
+        .about-layout {
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            gap: 6rem;
+            align-items: center;
+        }
+        
+        .about-image {
+            width: 100%;
+            height: 550px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .about-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .about-content h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+        
+        .about-content p {
+            color: var(--text-medium);
+            font-size: 1.05rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+        }
+        
+        .about-content .highlight {
+            color: var(--text-dark);
+            font-weight: 500;
+        }
+        
+        /* Info Box */
+        .info-box {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            margin: 3rem 0;
+        }
+        
+        .info-box h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+        
+        .info-box ul {
+            list-style: none;
+        }
+        
+        .info-box li {
+            padding: 0.8rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-medium);
+            border-bottom: 1px solid var(--card-border);
+        }
+        
+        .info-box li:last-child {
+            border-bottom: none;
+        }
+        
+        .info-box li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+            font-weight: 600;
+        }
+        
+        /* About Photos Grid */
+        .about-photos {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .about-photo-item {
+            width: 100%;
+            height: 400px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .about-photo-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        /* Programme Cards */
+        .programme-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .programme-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            transition: box-shadow 0.2s;
+        }
+        
+        .programme-card:hover {
+            box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+        }
+        
+        .programme-card h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-dark);
+        }
+        
+        .programme-card .duration {
+            color: var(--text-light);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        
+        .programme-card .location {
+            color: var(--teal-button);
+            font-size: 0.95rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+        }
+        
+        .programme-card .price {
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin: 1rem 0 1.5rem;
+            color: var(--text-dark);
+        }
+        
+        .programme-card ul {
+            list-style: none;
+            margin: 1.5rem 0;
+        }
+        
+        .programme-card li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-medium);
+            font-size: 0.9rem;
+        }
+        
+        .programme-card li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+        }
+        
+        .programme-card .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            display: block;
+            text-align: center;
+            margin-top: 1.5rem;
+            transition: background 0.2s;
+        }
+        
+        .programme-card .btn:hover {
+            background: var(--teal-hover);
+        }
+        
+        /* Programme Photos Grid */
+        .programme-photos {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .programme-photo-item {
+            text-align: center;
+        }
+        
+        .programme-photo-item img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+        }
+        
+        .photo-caption {
+            font-size: 0.85rem;
+            color: var(--text-medium);
+            line-height: 1.4;
+        }
+        
+        /* Contact Form */
+        .contact-form {
+            max-width: 700px;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 3rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: var(--text-dark);
+            font-size: 0.9rem;
+        }
+        
+        input, select, textarea {
+            width: 100%;
+            padding: 0.8rem 1rem;
+            border: 1px solid var(--card-border);
+            border-radius: 6px;
+            font-size: 0.95rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+            background: white;
+            color: var(--text-dark);
+        }
+        
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: var(--teal-button);
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+        
+        .btn-submit {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.85rem 2rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            width: 100%;
+        }
+        
+        .btn-submit:hover {
+            background: var(--teal-hover);
+        }
+        
+        .contact-info {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--card-border);
+            text-align: center;
+        }
+        
+        .contact-info p {
+            color: var(--text-medium);
+            margin: 0.5rem 0;
+            font-size: 0.9rem;
+        }
+        
+        .contact-info a {
+            color: var(--teal-button);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Footer */
+        footer {
+            background: white;
+            border-top: 1px solid var(--card-border);
+            padding: 3rem 0;
+        }
+        
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .footer-left h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.3rem;
+            color: var(--text-dark);
+        }
+        
+        .footer-left p {
+            color: var(--text-medium);
+            font-size: 0.9rem;
+        }
+        
+        .footer-right {
+            display: flex;
+            gap: 2rem;
+        }
+        
+        .footer-right a {
+            color: var(--text-medium);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        
+        .footer-right a:hover {
+            color: var(--text-dark);
+        }
+        
+        .footer-bottom {
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--card-border);
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+        
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .hero-grid, .about-layout {
+                grid-template-columns: 1fr;
+                gap: 3rem;
+            }
+            
+            .icon-cards, .programme-grid, .testimonial-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1.5rem;
+            }
+            
+            nav .container {
+                flex-direction: column;
+                gap: 1rem;
+                padding: 1rem 1.5rem;
+            }
+            
+            nav .nav-links {
+                gap: 1rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            
+            .hero {
+                padding: 3rem 0 2.5rem;
+            }
+            
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+            
+            .hero-content .subtitle {
+                font-size: 1.1rem;
+            }
+            
+            .hero-image {
+                height: 300px;
+            }
+            
+            .section-title {
+                font-size: 1.8rem;
+            }
+            
+            section {
+                padding: 3rem 0;
+            }
+            
+            .lead-magnet, .contact-form {
+                padding: 2rem 1.5rem;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                gap: 2rem;
+                text-align: center;
+            }
+            
+            .mini-gallery {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            
+            .about-photos {
+                grid-template-columns: 1fr;
+            }
+            
+            .about-photo-item {
+                height: 300px;
+            }
+            
+            .programme-photos {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .mini-gallery {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .mini-gallery-item {
+                height: 150px;
+            }
+            
+            .programme-photos {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* Page switching */
+        .page {
+            display: none;
+        }
+        
+        .page.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="logo">Elisabeth Braunschmid</div>
+            <ul class="nav-links">
+                <li><a href="#" onclick="showPage('home')">Home</a></li>
+                <li><a href="#" onclick="showPage('about')">Über mich</a></li>
+                <li><a href="#" onclick="showPage('programme')">Programme</a></li>
+                <li><a href="#" onclick="showPage('contact')">Kontakt</a></li>
+            </ul>
+            <a href="#" onclick="showPage('contact')" class="btn-nav">Gespräch vereinbaren</a>
+        </div>
+    </nav>
+
+    <!-- HOME PAGE -->
+    <div id="home" class="page active">
+        <section class="hero">
+            <div class="container">
+                <div class="hero-grid">
+                    <div class="hero-content">
+                        <h1>Wenn Jugendliche Ruhe brauchen, braucht es mehr als Worte</h1>
+                        <p class="subtitle">Naturbasierte Resilienz-Programme für Jugendliche 10-17 Jahre. Weil echte Regulation im Körper beginnt – nicht im Kopf.</p>
+                        <p class="flexibility">✓ Flexibel: In Ihrer Turnhalle, auf Ihrem Schulhof, oder draußen im Grünen</p>
+                        <a href="#" onclick="showPage('contact')" class="btn">Mit mir arbeiten</a>
+                        <p class="subtext">Für Schulen, Bildungszentren & Jugendorganisationen in Oberösterreich</p>
+                    </div>
+                    <div class="hero-image">
+                        <img src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&q=80" alt="Jugendliche in der Natur">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="trust-bar">
+            <div class="container">
+                <div class="trust-item">
+                    <div class="number">50+</div>
+                    <div class="label">Workshops durchgeführt</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">600+</div>
+                    <div class="label">Schüler*innen erreicht</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">8+</div>
+                    <div class="label">Jahre Praxiserfahrung</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">2</div>
+                    <div class="label">Waldkindergärten geleitet</div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <div class="quote-section">
+                    <p>"Jugendliche brauchen keine Vorträge über Achtsamkeit. Sie brauchen verkörperte Erfahrungen – einen Ort, wo ihr Nervensystem wieder herunterfahren darf."</p>
+                    <div class="quote-author">— Elisabeth Braunschmid</div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <h2 class="section-title">Was in meinen Programmen passiert</h2>
+                <p class="section-subtitle">Nicht "Natur-Spaziergang" – sondern gezielte Regulierungsarbeit mit messbaren Ergebnissen</p>
+                
+                <div class="icon-cards">
+                    <div class="icon-card">
+                        <div class="icon">🌲</div>
+                        <h3>Somatische Regulation</h3>
+                        <p>Atem-Techniken, Erdungs-Übungen, Körperwahrnehmung. Werkzeuge, die Jugendliche selbstständig nutzen können – im Klassenzimmer wie im Leben.</p>
+                    </div>
+                    <div class="icon-card">
+                        <div class="icon">👥</div>
+                        <h3>Gruppendynamik ohne Zwang</h3>
+                        <p>Kooperative Spiele und Aufgaben, die Verbindung schaffen – ohne Leistungsdruck. Jugendliche lernen aufeinander zu achten, statt gegeneinander zu kämpfen.</p>
+                    </div>
+                    <div class="icon-card">
+                        <div class="icon">🧘</div>
+                        <h3>Trauma-informierte Methoden</h3>
+                        <p>Als Sozialarbeiterin verstehe ich, wo Grenzen sind. Keine Zwangs-Rituale, keine Überrumpelung – nur sichere, respektvolle Begleitung.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section style="background: white; padding: 4rem 0;">
+            <div class="container">
+                <h2 class="section-title">Was Menschen über die Arbeit sagen</h2>
+                <p class="section-subtitle">Von Lehrer*innen, Schulleiter*innen und Eltern</p>
+                
+                <div class="testimonial-grid">
+                    <div class="testimonial-card">
+                        <p>"Die Schüler kamen anders zurück – ruhiger, präsenter. Manche haben noch Wochen später von Übungen erzählt, die sie zu Hause machen."</p>
+                        <div class="author">— Eine Lehrerin aus Oberösterreich</div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"Endlich jemand, der nicht nur redet, sondern wirklich versteht, was Jugendliche in diesem Alter brauchen. Praxisnah, respektvoll, wirksam."</p>
+                        <div class="author">— Ein Schulleiter</div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"Elisabeth hat ein seltenes Talent: Sie schafft Sicherheit, ohne zu kontrollieren. Die Kinder öffnen sich – in ihrem Tempo."</p>
+                        <div class="author">— Eine Schulsozialarbeiterin</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <h2 class="section-title">Einblicke in die Praxis</h2>
+                <p class="section-subtitle">Aus Workshops mit Schulen und Jugendgruppen in Oberösterreich</p>
+                
+                <div class="mini-gallery">
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=600&q=80" alt="Workshop Impression">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1569163139394-de4798aa62b2?w=600&q=80" alt="Gruppenarbeit">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&q=80" alt="Naturarbeit">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=600&q=80" alt="Outdoor Aktivität">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=600&q=80" alt="Wanderung">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=600&q=80" alt="Feuerkreis">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section style="background: var(--cream-bg);">
+            <div class="container">
+                <div class="lead-magnet">
+                    <h2>Kostenloser Leitfaden für Pädagog*innen</h2>
+                    <p>5 Natur-basierte Aktivitäten zur Beruhigung Ihrer Klasse</p>
+                    <ul>
+                        <li>Sofort umsetzbar – auch im Klassenzimmer</li>
+                        <li>Keine Vorbereitung, keine Spezialausrüstung</li>
+                        <li>Wissenschaftlich fundierte Methoden</li>
+                        <li>Für Kinder und Jugendliche 10-17 Jahre</li>
+                    </ul>
+                    <a href="#" class="btn">PDF herunterladen</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- ABOUT PAGE -->
+    <div id="about" class="page">
+        <section>
+            <div class="container">
+                <div class="about-layout">
+                    <div class="about-image">
+                        <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&q=80" alt="Elisabeth Braunschmid">
+                    </div>
+                    <div class="about-content">
+                        <h2>Elisabeth Braunschmid</h2>
+                        <p><strong>Wildnispädagogin & Diplomierte Sozialarbeiterin</strong></p>
+                        <p>Ich arbeite seit über 8 Jahren mit Jugendlichen – nicht weil ich die Methode so toll finde, sondern weil ich gesehen habe, was Natur mit Menschen macht, die sich verloren haben.</p>
+                        <p>Als <span class="highlight">Sozialarbeiterin</span> habe ich gelernt, systemisch zu denken. Ich sehe nicht nur das Kind, sondern das ganze Gefüge: Familie, Schule, Druck, Erwartungen. Als <span class="highlight">Wildnispädagogin</span> habe ich erlebt, wie ein Wald Dinge regulieren kann, die keine Therapie schafft.</p>
+                        <p>Ich habe zwei Waldkindergärten gegründet und geleitet. Ich bin auf einem Baumschul-Betrieb im Mühlviertel aufgewachsen. Die Natur ist nicht meine Methode – sie ist mein Zuhause.</p>
+                        <p><span class="highlight">Meine Überzeugung:</span> Jugendliche brauchen keine Heilung. Sie brauchen einen Ort, wo ihr Nervensystem endlich Pause machen darf – und Werkzeuge, die sie selbst in der Hand halten.</p>
+                    </div>
+                </div>
+
+                <div class="info-box">
+                    <h3>Qualifikationen & Werdegang</h3>
+                    <ul>
+                        <li>Diplomierte Sozialarbeiterin (FH-Abschluss, Österreich)</li>
+                        <li>Wildnispädagogin (zertifiziert)</li>
+                        <li>Gründerin & ehemalige Leiterin zweier Waldkindergärten im Mühlviertel</li>
+                        <li>8+ Jahre Erfahrung mit Kindern & Jugendlichen (10-17 Jahre)</li>
+                        <li>Spezialisierung: Jugendliche in Übergangsphasen</li>
+                        <li>Fortbildung: Trauma-informierte Pädagogik & Somatische Regulierung</li>
+                        <li>Aufgewachsen auf Familien-Baumschule (generationenlanges Naturwissen)</li>
+                    </ul>
+                </div>
+
+                <div class="info-box" style="text-align: center;">
+                    <h3>Warum beides wichtig ist</h3>
+                    <p style="color: var(--text-medium); font-size: 1.05rem; line-height: 1.7; margin-top: 1rem;">
+                        <strong style="color: var(--text-dark);">Sozialarbeit</strong> bedeutet: Ich verstehe Trauma, Grenzen, Dynamiken. Ich weiß, wann ich stoppen muss.<br><br>
+                        <strong style="color: var(--text-dark);">Wildnispädagogik</strong> bedeutet: Ich kenne die Natur, ich halte Raum, ich weiß, wie man sicher draußen arbeitet.<br><br>
+                        Zusammen ergibt das Programme, die <strong style="color: var(--text-dark);">wirken – ohne zu verletzen.</strong>
+                    </p>
+                </div>
+
+                <div class="about-photos">
+                    <div class="about-photo-item">
+                        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&q=80" alt="Workshop Facilitation">
+                    </div>
+                    <div class="about-photo-item">
+                        <img src="https://images.unsplash.com/photo-1588392382834-a891154bca4d?w=800&q=80" alt="Arbeit in der Natur">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- PROGRAMME PAGE -->
+    <div id="programme" class="page">
+        <section>
+            <div class="container">
+                <h1 class="section-title">Programme & Formate</h1>
+                <p class="section-subtitle">Zwei Kern-Formate – beide flexibel anpassbar an Ihre Situation</p>
+                
+                <div class="programme-grid">
+                    <div class="programme-card">
+                        <h3>Halbtages-Programm</h3>
+                        <p class="duration">3-4 Stunden</p>
+                        <p class="location">📍 Bei Ihnen: Turnsaal, Schulhof, nahes Grün</p>
+                        <div class="price">€600 – €800</div>
+                        <ul>
+                            <li>Bis zu 25 Jugendliche (10-17 Jahre)</li>
+                            <li>Regulierungs-Übungen (Atem, Erdung, Körperwahrnehmung)</li>
+                            <li>Gruppendynamik-Spiele (kooperativ, nicht kompetitiv)</li>
+                            <li>Funktioniert indoor & outdoor</li>
+                            <li>Alle Materialien mitgebracht</li>
+                            <li>Follow-up PDF für Lehrer*innen mit Übungen</li>
+                        </ul>
+                        <a href="#" onclick="showPage('contact')" class="btn">Anfragen</a>
+                    </div>
+
+                    <div class="programme-card">
+                        <h3>Ganztages-Programm</h3>
+                        <p class="duration">6-7 Stunden</p>
+                        <p class="location">🌲 In der Natur (lokaler Wald, Park, Fluss)</p>
+                        <div class="price">€1.200 – €1.500</div>
+                        <ul>
+                            <li>Bis zu 25 Jugendliche (10-17 Jahre)</li>
+                            <li>Tiefere Naturerfahrung & Immersion</li>
+                            <li>Survival-Skills (Feuer, Knoten, Orientierung)</li>
+                            <li>Intensive Gruppen- & Selbstreflexion</li>
+                            <li>Alle Materialien & Sicherheitsausrüstung</li>
+                            <li>Transport organisiert die Schule/das Zentrum</li>
+                        </ul>
+                        <a href="#" onclick="showPage('contact')" class="btn">Anfragen</a>
+                    </div>
+                </div>
+
+                <div class="info-box" style="margin-top: 3rem; text-align: center;">
+                    <h3>Für Seminar- & Bildungszentren</h3>
+                    <p style="color: var(--text-medium); font-size: 1.05rem; line-height: 1.7; margin-top: 1rem;">
+                        Wenn Sie ein Bildungshaus, eine Jugendherberge oder ein Seminarzentrum betreiben und Ihr Programmangebot erweitern möchten: Ich arbeite gerne mit Ihnen zusammen.<br><br>
+                        Sie erhalten fertige Programmbeschreibungen, Fotos für Ihre Kataloge und professionelle Abwicklung. <a href="#" onclick="showPage('contact')" style="color: var(--teal-button); text-decoration: underline;">Lassen Sie uns reden.</a>
+                    </p>
+                </div>
+
+                <h3 class="section-title" style="margin-top: 5rem; font-size: 2rem;">So sehen die Programme aus</h3>
+                <p class="section-subtitle" style="margin-bottom: 3rem;">Einblicke aus Halbtages- und Ganztages-Formaten</p>
+                
+                <div class="programme-photos">
+                    <div class="programme-photo-item">
+                        <img src="https://images.unsplash.com/photo-1529390079861-591de354faf5?w=800&q=80" alt="Indoor Workshop">
+                        <p class="photo-caption">Halbtag: Gruppendynamik in der Turnhalle</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="https://images.unsplash.com/photo-1618519764620-7403abdbdfe9?w=800&q=80" alt="Outdoor Schulhof">
+                        <p class="photo-caption">Halbtag: Erdungs-Übung im Schulhof</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=800&q=80" alt="Wald Ganztag">
+                        <p class="photo-caption">Ganztag: Feuer-Arbeit im Wald</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="https://images.unsplash.com/photo-1464207687429-7505649dae38?w=800&q=80" alt="Naturerkundung">
+                        <p class="photo-caption">Ganztag: Sinneswanderung & Reflexion</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- CONTACT PAGE -->
+    <div id="contact" class="page">
+        <section>
+            <div class="container">
+                <h1 class="section-title">Kontakt</h1>
+                <p class="section-subtitle">Schreiben Sie mir – ich melde mich innerhalb von 48 Stunden</p>
+                
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">Ihr Name *</label>
+                            <input type="text" id="name" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email">Email *</label>
+                            <input type="email" id="email" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="organization">Organisation / Schule</label>
+                            <input type="text" id="organization" placeholder="Name Ihrer Schule oder Einrichtung">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="type">Ich bin ein/e... *</label>
+                            <select id="type" required>
+                                <option value="">Bitte wählen...</option>
+                                <option value="schule">Schule (Lehrer*in / Direktor*in)</option>
+                                <option value="zentrum">Seminar- oder Bildungszentrum</option>
+                                <option value="ngo">NGO / Jugendorganisation</option>
+                                <option value="andere">Andere</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="timeframe">Gewünschter Zeitraum (falls bekannt)</label>
+                            <input type="text" id="timeframe" placeholder="z.B. Frühjahr 2026">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="message">Ihre Nachricht</label>
+                            <textarea id="message" placeholder="Erzählen Sie mir, was Sie brauchen – oder fragen Sie einfach, was möglich ist."></textarea>
+                        </div>
+
+                        <button type="submit" class="btn-submit">Nachricht senden</button>
+                    </form>
+
+                    <div class="contact-info">
+                        <p><strong>Oder direkt per Email:</strong></p>
+                        <p><a href="mailto:info@naturpaedagogik-ooe.at">info@naturpaedagogik-ooe.at</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <h3>Elisabeth Braunschmid</h3>
+                    <p>Naturpädagogik & Resilienz · Oberösterreich</p>
+                </div>
+                <div class="footer-right">
+                    <a href="#">Impressum</a>
+                    <a href="#">Datenschutz</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Elisabeth Braunschmid · Alle Rechte vorbehalten</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function showPage(pageName) {
+            document.querySelectorAll('.page').forEach(page => {
+                page.classList.remove('active');
+            });
+            document.getElementById(pageName).classList.add('active');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        document.getElementById('contactForm')?.addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Vielen Dank! Ihre Nachricht wurde gesendet.\n\nSie erhalten innerhalb von 48 Stunden eine Antwort von Elisabeth.');
+        });
+    </script>
+</body>
+</html>

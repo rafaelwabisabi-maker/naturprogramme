@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light">
+    <meta name="description" content="Naturbasierte Resilienz-Programme für Jugendliche 10-17 Jahre. Elisabeth Braunschmid verbindet Wildnispädagogik mit Sozialarbeit für nachhaltige Gruppendynamik und Selbstregulation. Für Schulen in Oberösterreich.">
+    <meta name="keywords" content="Naturpädagogik, Wildnispädagogik, Jugendprogramme, Schulprogramme, Oberösterreich, Linz, Resilienz, Gruppendynamik, Outdoor-Pädagogik">
+    <meta name="author" content="Elisabeth Braunschmid">
+    <meta property="og:title" content="Elisabeth · Naturpädagogik für Jugend">
+    <meta property="og:description" content="Naturbasierte Programme für Jugendliche, die Ruhe brauchen. Regulierungs-Arbeit für 10-17 Jährige in Oberösterreich.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="de_AT">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="Files/Logo.png">
+    <title>Elisabeth · Naturpädagogik für Jugend | Programme für Schulen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            color-scheme: light;
+            background: #f5f1ed;
+        }
+
+        :root {
+            color-scheme: light;
+            --cream-bg: #f5f1ed;
+            --white: #ffffff;
+            --text-dark: #3d3935;
+            --text-medium: #6b6560;
+            --text-light: #9a9490;
+            --teal-button: #3d5a52;
+            --teal-hover: #4a6b61;
+            --card-border: #e8e4df;
+            --dark-bg: #2d2a27;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.7;
+            color: #4a4541 !important;
+            background: #f5f1ed !important;
+            background-color: #f5f1ed !important;
+        }
+
+        /* Navigation */
+        nav {
+            background: #f5f1ed !important;
+            background-color: #f5f1ed !important;
+            border-bottom: 1px solid var(--card-border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            padding: 1.2rem 0;
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+        }
+
+        nav .logo-img {
+            width: 58px;
+            height: 58px;
+            object-fit: contain;
+        }
+
+        nav .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 2.5rem;
+        }
+
+        nav .nav-links a {
+            text-decoration: none;
+            color: var(--text-medium);
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        nav .nav-links a:hover {
+            color: var(--text-dark);
+        }
+
+        nav .btn-nav {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.6rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        nav .btn-nav:hover {
+            background: var(--teal-hover);
+        }
+
+        /* Mobile Menu Button */
+        .mobile-menu-btn {
+            display: none;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.5rem;
+            z-index: 101;
+        }
+
+        .mobile-menu-btn span {
+            display: block;
+            width: 24px;
+            height: 2px;
+            background: var(--text-dark);
+            margin: 5px 0;
+            transition: all 0.3s;
+        }
+
+        .mobile-menu-btn.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+
+        .mobile-menu-btn.active span:nth-child(2) {
+            opacity: 0;
+        }
+
+        .mobile-menu-btn.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 3rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 6rem 0 5rem;
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6rem;
+            align-items: center;
+        }
+
+        .hero-content h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.5rem;
+            font-weight: 600;
+            line-height: 1.15;
+            margin-bottom: 1.5rem;
+            color: var(--text-dark);
+        }
+
+        .hero-content .subtitle {
+            font-size: 1.3rem;
+            color: var(--text-medium);
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+
+        .hero-content .flexibility {
+            font-size: 1.05rem;
+            color: var(--teal-button);
+            font-weight: 500;
+            margin-bottom: 2.5rem;
+        }
+
+        .hero-content .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.85rem 2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            display: inline-block;
+            transition: background 0.2s;
+            margin-bottom: 1rem;
+        }
+
+        .hero-content .btn:hover {
+            background: var(--teal-hover);
+        }
+
+        .hero-content .subtext {
+            font-size: 0.9rem;
+            color: var(--text-light);
+        }
+
+        .hero-image {
+            width: 100%;
+            height: 450px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .hero-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Trust Bar */
+        .trust-bar {
+            padding: 3rem 0;
+            border-top: 1px solid var(--card-border);
+            border-bottom: 1px solid var(--card-border);
+        }
+
+        .trust-bar .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5rem;
+            flex-wrap: wrap;
+        }
+
+        .trust-item {
+            text-align: center;
+        }
+
+        .trust-item .number {
+            font-size: 2.2rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 0.3rem;
+        }
+
+        .trust-item .label {
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+
+        /* Section */
+        section {
+            padding: 5rem 0;
+        }
+
+        .section-title {
+            font-family: 'Playfair Display', serif;
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.05rem;
+            color: var(--text-medium);
+            margin-bottom: 4rem;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.7;
+        }
+
+        /* NEW: Quote Banner with Image Background */
+        .quote-banner {
+            position: relative;
+            background-image: url('https://images.unsplash.com/photo-1448375240586-882707db888b?w=1600&q=80');
+            background-size: cover;
+            background-position: center;
+            padding: 6rem 2rem;
+            margin: 0;
+        }
+
+        @supports (-webkit-touch-callout: none) {
+            /* iOS fix - no fixed attachment */
+            .quote-banner {
+                background-attachment: scroll;
+            }
+        }
+
+        @media (min-width: 769px) {
+            .quote-banner {
+                background-attachment: fixed;
+            }
+        }
+
+        .quote-banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(45, 42, 39, 0.85);
+        }
+
+        .quote-banner .quote-content {
+            position: relative;
+            z-index: 1;
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .quote-banner .quote-text {
+            font-size: 1.5rem;
+            line-height: 1.7;
+            color: #e8e4df;
+            font-style: italic;
+            font-family: 'Playfair Display', serif;
+            margin-bottom: 1.5rem;
+        }
+
+        .quote-banner .quote-author {
+            font-size: 1rem;
+            color: #9a9490;
+            font-style: normal;
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Icon Cards */
+        .icon-cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 4rem;
+        }
+
+        .icon-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem 2rem;
+            transition: box-shadow 0.2s;
+        }
+
+        .icon-card:hover {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+        }
+
+        .icon-card .icon {
+            width: 48px;
+            height: 48px;
+            background: var(--cream-bg);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1.5rem;
+            color: var(--text-dark);
+            font-size: 1.5rem;
+        }
+
+        .icon-card h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+
+        .icon-card p {
+            color: var(--text-medium);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        /* Testimonial Cards */
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .testimonial-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            transition: box-shadow 0.2s;
+        }
+
+        .testimonial-card:hover {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+        }
+
+        .testimonial-card p {
+            color: var(--text-medium);
+            font-size: 1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            font-style: italic;
+        }
+
+        .testimonial-card .author {
+            color: var(--text-light);
+            font-size: 0.85rem;
+            font-style: normal;
+        }
+
+        /* Lead Magnet Section */
+        .lead-magnet {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 4rem 3rem;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .lead-magnet h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 1rem;
+        }
+
+        .lead-magnet p {
+            font-size: 1.1rem;
+            color: var(--text-medium);
+            margin-bottom: 2rem;
+        }
+
+        .lead-magnet ul {
+            list-style: none;
+            margin: 2rem 0;
+            text-align: left;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .lead-magnet li {
+            padding: 0.6rem 0;
+            padding-left: 2rem;
+            position: relative;
+            color: var(--text-medium);
+        }
+
+        .lead-magnet li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+            font-weight: 600;
+        }
+
+        .lead-magnet .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.85rem 2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            display: inline-block;
+            transition: background 0.2s;
+        }
+
+        .lead-magnet .btn:hover {
+            background: var(--teal-hover);
+        }
+
+        /* Mini Gallery */
+        .mini-gallery {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .mini-gallery-item {
+            width: 100%;
+            height: 200px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .mini-gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+
+        .mini-gallery-item:hover img {
+            transform: scale(1.05);
+        }
+
+        /* About Layout */
+        .about-layout {
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            gap: 6rem;
+            align-items: center;
+        }
+
+        .about-image {
+            width: 100%;
+            height: 550px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .about-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .about-content h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-dark);
+        }
+
+        .about-content .role-subtitle {
+            font-size: 1.1rem;
+            color: var(--teal-button);
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .about-content p {
+            color: var(--text-medium);
+            font-size: 1.05rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+        }
+
+        .about-content .highlight {
+            color: var(--text-dark);
+            font-weight: 500;
+        }
+
+        /* Info Box */
+        .info-box {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            margin: 3rem 0;
+        }
+
+        .info-box h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+
+        .info-box ul {
+            list-style: none;
+        }
+
+        .info-box li {
+            padding: 0.8rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-medium);
+            border-bottom: 1px solid var(--card-border);
+        }
+
+        .info-box li:last-child {
+            border-bottom: none;
+        }
+
+        .info-box li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+            font-weight: 600;
+        }
+
+        /* About Photos Grid */
+        .about-photos {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .about-photo-item {
+            width: 100%;
+            height: 400px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .about-photo-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Programme Cards */
+        .programme-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .programme-card {
+            background: white;
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            transition: box-shadow 0.2s;
+        }
+
+        .programme-card:hover {
+            box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+        }
+
+        .programme-card h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-dark);
+        }
+
+        .programme-card .duration {
+            color: var(--text-light);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .programme-card .location {
+            color: var(--teal-button);
+            font-size: 0.95rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+        }
+
+        .programme-card .price {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 1rem 0 0.5rem;
+            color: var(--text-dark);
+        }
+
+        .programme-card .price-note {
+            font-size: 0.85rem;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+        }
+
+        .programme-card ul {
+            list-style: none;
+            margin: 1.5rem 0;
+        }
+
+        .programme-card li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-medium);
+            font-size: 0.9rem;
+        }
+
+        .programme-card li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--teal-button);
+        }
+
+        .programme-card .btn {
+            background: var(--teal-button);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            display: block;
+            text-align: center;
+            margin-top: 1.5rem;
+            transition: background 0.2s;
+        }
+
+        .programme-card .btn:hover {
+            background: var(--teal-hover);
+        }
+
+        /* Programme Photos Grid */
+        .programme-photos {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .programme-photo-item {
+            text-align: center;
+        }
+
+        .programme-photo-item img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+        }
+
+        .photo-caption {
+            font-size: 0.85rem;
+            color: var(--text-medium);
+            line-height: 1.4;
+        }
+
+        /* ============================================
+           KONTAKT PAGE - WANDELWEISE STYLE
+           ============================================ */
+
+        .contact-hero {
+            background: var(--dark-bg);
+            padding: 4rem 0 2rem;
+            text-align: center;
+        }
+
+        .contact-hero .badge {
+            display: inline-block;
+            background: rgba(61, 90, 82, 0.3);
+            color: var(--teal-button);
+            padding: 0.4rem 1rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid var(--teal-button);
+        }
+
+        .contact-hero h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            font-weight: 500;
+            color: #e8e4df;
+            margin-bottom: 0.75rem;
+            font-style: italic;
+        }
+
+        .contact-hero .subtitle {
+            color: #9a9490;
+            font-size: 1.1rem;
+        }
+
+        /* Contact Options Cards */
+        .contact-options {
+            background: var(--dark-bg);
+            padding: 2rem 0 4rem;
+        }
+
+        .contact-options-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .contact-option-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.2s;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .contact-option-card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: var(--teal-button);
+        }
+
+        .contact-option-card.highlight {
+            background: var(--teal-button);
+            border-color: var(--teal-button);
+        }
+
+        .contact-option-card .icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .contact-option-card h3 {
+            color: #e8e4df;
+            font-size: 1rem;
+            font-weight: 500;
+            margin-bottom: 0.25rem;
+        }
+
+        .contact-option-card.highlight h3 {
+            color: white;
+        }
+
+        .contact-option-card p {
+            color: #9a9490;
+            font-size: 0.85rem;
+        }
+
+        .contact-option-card.highlight p {
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        /* Calendar Section */
+        .calendar-section {
+            background: var(--dark-bg);
+            padding: 3rem 0 4rem;
+        }
+
+        .calendar-section h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 500;
+            color: #e8e4df;
+            text-align: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .calendar-section .subtitle {
+            color: #9a9490;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .calendar-embed {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 12px;
+            overflow: hidden;
+            min-height: 500px;
+        }
+
+        .calendar-embed iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+
+        /* Contact Gallery */
+        .contact-gallery {
+            background: var(--dark-bg);
+            padding: 3rem 0;
+        }
+
+        .contact-gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 1rem;
+        }
+
+        .contact-gallery-item {
+            height: 180px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .contact-gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+
+        .contact-gallery-item:hover img {
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background: white;
+            border-top: 1px solid var(--card-border);
+            padding: 3rem 0;
+        }
+
+        footer.dark-footer {
+            background: #1a1817;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        footer.dark-footer .footer-left h3,
+        footer.dark-footer .footer-left p,
+        footer.dark-footer .footer-right a,
+        footer.dark-footer .footer-ngo-note,
+        footer.dark-footer .footer-bottom p {
+            color: #9a9490;
+        }
+
+        footer.dark-footer .footer-left h3 {
+            color: #e8e4df;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer-left h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.3rem;
+            color: var(--text-dark);
+        }
+
+        .footer-left p {
+            color: var(--text-medium);
+            font-size: 0.9rem;
+        }
+
+        .footer-right {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .footer-right a {
+            color: var(--text-medium);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        .footer-right a:hover {
+            color: var(--text-dark);
+        }
+
+        .footer-ngo-note {
+            text-align: center;
+            margin-top: 1.5rem;
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+
+        .footer-bottom {
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--card-border);
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+
+        footer.dark-footer .footer-bottom {
+            border-top-color: rgba(255,255,255,0.1);
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .hero-grid, .about-layout {
+                grid-template-columns: 1fr;
+                gap: 3rem;
+            }
+
+            .icon-cards, .programme-grid, .testimonial-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-options-grid {
+                grid-template-columns: 1fr;
+                max-width: 400px;
+            }
+
+            .contact-gallery-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1.5rem;
+            }
+
+            nav .container {
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                padding: 1rem 1.5rem;
+            }
+
+            .mobile-menu-btn {
+                display: block;
+                order: 3;
+            }
+
+            nav .nav-links {
+                display: none;
+                width: 100%;
+                order: 4;
+                flex-direction: column;
+                gap: 0;
+                padding-top: 1rem;
+                margin-top: 1rem;
+                border-top: 1px solid var(--card-border);
+            }
+
+            nav .nav-links.mobile-open {
+                display: flex;
+            }
+
+            nav .nav-links li {
+                width: 100%;
+            }
+
+            nav .nav-links a {
+                display: block;
+                padding: 0.75rem 0;
+                border-bottom: 1px solid var(--card-border);
+            }
+
+            nav .btn-nav {
+                display: none;
+                width: 100%;
+                text-align: center;
+                order: 5;
+                margin-top: 1rem;
+            }
+
+            nav .btn-nav.mobile-open {
+                display: block;
+            }
+
+            .hero {
+                padding: 3rem 0 2.5rem;
+            }
+
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+
+            .hero-content .subtitle {
+                font-size: 1.1rem;
+            }
+
+            .hero-image {
+                height: 300px;
+            }
+
+            .section-title {
+                font-size: 1.8rem;
+            }
+
+            section {
+                padding: 3rem 0;
+            }
+
+            .lead-magnet {
+                padding: 2rem 1.5rem;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                gap: 2rem;
+                text-align: center;
+            }
+
+            .mini-gallery {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+            .about-photos {
+                grid-template-columns: 1fr;
+            }
+
+            .about-photo-item {
+                height: 300px;
+            }
+
+            .programme-photos {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .quote-banner {
+                padding: 4rem 1.5rem;
+            }
+
+            .quote-banner .quote-text {
+                font-size: 1.2rem;
+            }
+
+            .contact-hero h1 {
+                font-size: 2rem;
+            }
+
+            .contact-gallery-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .mini-gallery {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .mini-gallery-item {
+                height: 150px;
+            }
+
+            .programme-photos {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-gallery-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .contact-gallery-item {
+                height: 140px;
+            }
+        }
+
+        /* Page switching */
+        .page {
+            display: none;
+        }
+
+        .page.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="logo">
+                <img src="Files/Logo.png" alt="Logo" class="logo-img">
+                <span>Elisabeth · Naturpädagogik für Jugend</span>
+            </div>
+            <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menü öffnen">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#" onclick="showPage('home'); closeMobileMenu();">Home</a></li>
+                <li><a href="#" onclick="showPage('about'); closeMobileMenu();">Über mich</a></li>
+                <li><a href="#" onclick="showPage('programme'); closeMobileMenu();">Programme</a></li>
+                <li><a href="#" onclick="showPage('contact'); closeMobileMenu();">Kontakt</a></li>
+            </ul>
+            <a href="#" onclick="showPage('contact'); closeMobileMenu();" class="btn-nav">Anfrage stellen</a>
+        </div>
+    </nav>
+
+    <!-- HOME PAGE -->
+    <div id="home" class="page active">
+        <section class="hero">
+            <div class="container">
+                <div class="hero-grid">
+                    <div class="hero-content">
+                        <h1>Naturbasierte Programme für Jugendliche, die Ruhe brauchen</h1>
+                        <p class="subtitle">Regulierungs-Arbeit für Jugendliche 10-17 Jahre. Weil Veränderung Zeit braucht – und einen sicheren Ort zum Ausprobieren.</p>
+                        <p class="flexibility">✓ Flexibel: In Ihrer Turnhalle, auf Ihrem Schulhof, oder draußen im Grünen</p>
+                        <a href="#" onclick="showPage('contact')" class="btn">Anfrage stellen</a>
+                        <p class="subtext">Für Schulen, Bildungszentren & Jugendorganisationen in Oberösterreich</p>
+                    </div>
+                    <div class="hero-image">
+                        <img src="https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?w=1200&q=80" alt="Jugendliche bei Gruppenaktivität">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="trust-bar">
+            <div class="container">
+                <div class="trust-item">
+                    <div class="number">50+</div>
+                    <div class="label">Workshops durchgeführt</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">600+</div>
+                    <div class="label">Schüler*innen erreicht</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">8+</div>
+                    <div class="label">Jahre Praxiserfahrung</div>
+                </div>
+                <div class="trust-item">
+                    <div class="number">2</div>
+                    <div class="label">Waldkindergärten geleitet</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- NEW: Quote Banner with Image Background -->
+        <div class="quote-banner">
+            <div class="quote-content">
+                <p class="quote-text">"Was ich in 8 Jahren gesehen habe: Jugendliche regulieren sich nicht durchs Reden. Sie brauchen Bewegung, Natur, Zeit – und jemanden, der sie nicht bewertet."</p>
+                <p class="quote-author">— Elisabeth Braunschmid</p>
+            </div>
+        </div>
+
+        <section>
+            <div class="container">
+                <h2 class="section-title">Was in meinen Programmen passiert</h2>
+                <p class="section-subtitle">Nicht "Natur-Spaziergang" – sondern gezielte Regulierungsarbeit mit messbaren Ergebnissen</p>
+
+                <div class="icon-cards">
+                    <div class="icon-card">
+                        <div class="icon">🌲</div>
+                        <h3>Somatische Regulation</h3>
+                        <p>Atem-Techniken, Erdungs-Übungen, Körperwahrnehmung. Werkzeuge, die Jugendliche selbstständig nutzen können – im Klassenzimmer wie im Leben.</p>
+                    </div>
+                    <div class="icon-card">
+                        <div class="icon">👥</div>
+                        <h3>Gruppendynamik ohne Zwang</h3>
+                        <p>Kooperative Spiele und Aufgaben, die Verbindung schaffen – ohne Leistungsdruck. Jugendliche lernen aufeinander zu achten, statt gegeneinander zu kämpfen.</p>
+                    </div>
+                    <div class="icon-card">
+                        <div class="icon">🧘</div>
+                        <h3>Trauma-informierte Methoden</h3>
+                        <p>Als Sozialarbeiterin verstehe ich, wo Grenzen sind. Keine Zwangs-Rituale, keine Überrumpelung – nur sichere, respektvolle Begleitung.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section style="background: white; padding: 4rem 0;">
+            <div class="container">
+                <h2 class="section-title">Was Menschen über die Arbeit sagen</h2>
+                <p class="section-subtitle">Von Lehrer*innen, Schulleiter*innen und Eltern</p>
+
+                <div class="testimonial-grid">
+                    <div class="testimonial-card">
+                        <p>"Die Schüler kamen anders zurück – ruhiger, präsenter. Manche haben noch Wochen später von Übungen erzählt, die sie zu Hause machen."</p>
+                        <div class="author">— Eine Lehrerin aus Oberösterreich</div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"Endlich jemand, der nicht nur redet, sondern wirklich versteht, was Jugendliche in diesem Alter brauchen. Praxisnah, respektvoll, wirksam."</p>
+                        <div class="author">— Ein Schulleiter</div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"Was mir aufgefallen ist: Die Kinder haben sich ernst genommen gefühlt. Niemand wurde zu etwas gezwungen. Das war selten."</p>
+                        <div class="author">— Eine Schulsozialarbeiterin</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <h2 class="section-title">Einblicke in die Praxis</h2>
+                <p class="section-subtitle">Aus Workshops mit Schulen und Jugendgruppen in Oberösterreich</p>
+
+                <div class="mini-gallery">
+                    <div class="mini-gallery-item">
+                        <img src="Files/Campfire-Safety-4-of-4-scaled.jpg" alt="Lagerfeuer bei Nacht">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="Files/1104233.jpg" alt="Naturerkundung mit Fernglas">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="Files/15970153_1384910681528685_1617946554_n.jpg" alt="Hand berührt Natur">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="Files/B168_600w_0f4fd149-a06f-4c78-bdc2-5387ae9343aa.jpg" alt="Kletterseile">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="Files/20230525-reconnexion-a-la-nature-membres-110215_52925116676_o.webp" alt="Gruppenkreis im Wald">
+                    </div>
+                    <div class="mini-gallery-item">
+                        <img src="Files/TST136_Message_OctoberHR.webp" alt="Herbstblätter Sammlung">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section style="background: var(--cream-bg);">
+            <div class="container">
+                <div class="lead-magnet">
+                    <h2>Kostenloser Leitfaden für Pädagog*innen</h2>
+                    <p>5 Natur-basierte Aktivitäten zur Beruhigung Ihrer Klasse</p>
+                    <ul>
+                        <li>Sofort umsetzbar – auch im Klassenzimmer</li>
+                        <li>Keine Vorbereitung, keine Spezialausrüstung</li>
+                        <li>Wissenschaftlich fundierte Methoden</li>
+                        <li>Für Kinder und Jugendliche 10-17 Jahre</li>
+                    </ul>
+                    <a href="Files/leitfaden-naturpaedagogik.pdf" class="btn" download>PDF herunterladen</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- ABOUT PAGE -->
+    <div id="about" class="page">
+        <section>
+            <div class="container">
+                <div class="about-layout">
+                    <div class="about-image">
+                        <img src="Files/ubermich.jpg" alt="Elisabeth Braunschmid Portrait">
+                    </div>
+                    <div class="about-content">
+                        <h2>Elisabeth Braunschmid</h2>
+                        <p class="role-subtitle">Wildnispädagogin & Sozialarbeiterin · Begleitung für Jugendliche, die mehr brauchen als Reden</p>
+                        <p>Ich arbeite seit über 8 Jahren mit Jugendlichen. Die meisten dieser Jahre waren Versuch und Irrtum – ich habe viel ausprobiert, manches hat nicht funktioniert.</p>
+                        <p>Als <span class="highlight">Sozialarbeiterin</span> habe ich gelernt, Systeme zu sehen. Als <span class="highlight">Wildnispädagogin</span> habe ich bemerkt, dass manche Dinge draußen leichter fallen als drinnen.</p>
+                        <p>Ich habe zwei Waldkindergärten gegründet – den <span class="highlight">Kinderwald in Linz</span> und <span class="highlight">Waldkinder Sterngartl in Sonnberg</span> – und über mehrere Jahre geleitet. Ich bin auf einem Baumschul-Betrieb im Mühlviertel aufgewachsen – die Natur war immer da, keine bewusste Entscheidung.</p>
+                        <p><span class="highlight">Was ich anbiete:</span> Programme, die funktionieren können – wenn die Gruppe passt, wenn die Zeit stimmt, wenn Jugendliche bereit sind. Keine Garantien, nur ehrliche Arbeit.</p>
+                    </div>
+                </div>
+
+                <div class="info-box">
+                    <h3>Qualifikationen & Werdegang</h3>
+                    <ul>
+                        <li>Diplomierte Sozialarbeiterin (FH-Abschluss, Österreich)</li>
+                        <li>Wildnispädagogin (zertifiziert)</li>
+                        <li>Gründerin & ehemalige Leiterin: Kinderwald in Linz & Waldkinder Sterngartl in Sonnberg</li>
+                        <li>8+ Jahre Erfahrung mit Kindern & Jugendlichen (10-17 Jahre)</li>
+                        <li>Spezialisierung: Jugendliche in Übergangsphasen</li>
+                        <li>Fortbildung: Trauma-informierte Pädagogik & Somatische Regulierung</li>
+                        <li>Aufgewachsen auf Familien-Baumschule (generationenlanges Naturwissen)</li>
+                    </ul>
+                </div>
+
+                <div class="info-box" style="text-align: center;">
+                    <h3>Warum beides relevant ist</h3>
+                    <p style="color: var(--text-medium); font-size: 1.05rem; line-height: 1.7; margin-top: 1rem;">
+                        <strong style="color: var(--text-dark);">Sozialarbeit:</strong> Ich kenne die Grenzen. Ich weiß, wann ich an Fachleute verweisen muss. Ich verstehe Gruppendynamiken.<br><br>
+                        <strong style="color: var(--text-dark);">Wildnispädagogik:</strong> Ich kenne die Abläufe draußen. Sicherheit, Wetter, was funktioniert und was nicht.<br><br>
+                        Zusammen: Ich kann Programme anbieten, die sicher sind und gleichzeitig Raum lassen.
+                    </p>
+                </div>
+
+                <div class="about-photos">
+                    <div class="about-photo-item">
+                        <img src="nature-feet.jpg" alt="Barfuß im Moos - Naturverbindung">
+                    </div>
+                    <div class="about-photo-item">
+                        <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80" alt="Naturpädagogik im Wald">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- PROGRAMME PAGE -->
+    <div id="programme" class="page">
+        <section>
+            <div class="container">
+                <h1 class="section-title">Programme & Formate</h1>
+                <p class="section-subtitle">Zwei Kern-Formate – jedes Angebot wird individuell auf Ihre Situation angepasst</p>
+
+                <div class="programme-grid">
+                    <div class="programme-card">
+                        <h3>Halbtages-Programm</h3>
+                        <p class="duration">3-4 Stunden</p>
+                        <p class="location">📍 Bei Ihnen: Turnsaal, Schulhof, nahes Grün</p>
+                        <div class="price">Individuelles Angebot</div>
+                        <p class="price-note">Preis abhängig von Gruppengröße, Standort und Ihrer spezifischen Situation</p>
+                        <ul>
+                            <li>Bis zu 25 Jugendliche (10-17 Jahre)</li>
+                            <li>Regulierungs-Übungen (Atem, Erdung, Körperwahrnehmung)</li>
+                            <li>Gruppendynamik-Spiele (kooperativ, nicht kompetitiv)</li>
+                            <li>Funktioniert indoor & outdoor</li>
+                            <li>Alle Materialien mitgebracht</li>
+                            <li>Follow-up PDF für Lehrer*innen mit Übungen</li>
+                        </ul>
+                        <a href="#" onclick="showPage('contact')" class="btn">Angebot anfragen</a>
+                    </div>
+
+                    <div class="programme-card">
+                        <h3>Ganztages-Programm</h3>
+                        <p class="duration">6-7 Stunden</p>
+                        <p class="location">🌲 In der Natur (lokaler Wald, Park, Fluss)</p>
+                        <div class="price">Individuelles Angebot</div>
+                        <p class="price-note">Preis abhängig von Gruppengröße, Standort, Zeitraum und Anreise</p>
+                        <ul>
+                            <li>Bis zu 25 Jugendliche (10-17 Jahre)</li>
+                            <li>Tiefere Naturerfahrung & Immersion</li>
+                            <li>Survival-Skills (Feuer, Knoten, Orientierung)</li>
+                            <li>Intensive Gruppen- & Selbstreflexion</li>
+                            <li>Alle Materialien & Sicherheitsausrüstung</li>
+                            <li>Transport organisiert die Schule/das Zentrum</li>
+                        </ul>
+                        <a href="#" onclick="showPage('contact')" class="btn">Angebot anfragen</a>
+                    </div>
+                </div>
+
+                <div class="info-box" style="margin-top: 3rem; text-align: center;">
+                    <h3>Für Seminar- & Bildungszentren</h3>
+                    <p style="color: var(--text-medium); font-size: 1.05rem; line-height: 1.7; margin-top: 1rem;">
+                        Wenn Sie ein Bildungshaus, eine Jugendherberge oder ein Seminarzentrum betreiben und Ihr Programmangebot erweitern möchten: Ich arbeite gerne mit Ihnen zusammen.<br><br>
+                        Sie erhalten fertige Programmbeschreibungen, Fotos für Ihre Kataloge und professionelle Abwicklung. <a href="#" onclick="showPage('contact')" style="color: var(--teal-button); text-decoration: underline;">Lassen Sie uns reden.</a>
+                    </p>
+                </div>
+
+                <h3 class="section-title" style="margin-top: 5rem; font-size: 2rem;">So sehen die Programme aus</h3>
+                <p class="section-subtitle" style="margin-bottom: 3rem;">Einblicke aus Halbtages- und Ganztages-Formaten</p>
+
+                <div class="programme-photos">
+                    <div class="programme-photo-item">
+                        <img src="Files/group-work-of-school-children-students-discuss-a-collective-project-at-school.webp" alt="Gruppendiskussion im Raum">
+                        <p class="photo-caption">Halbtag: Reflexion & Austausch (indoor)</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="Files/textileexercise.webp" alt="Gruppenübung im Kreis">
+                        <p class="photo-caption">Halbtag: Gruppendynamik & Verbindung</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="Files/multiracial-group-of-teenagers-handing-out-outdoors.webp" alt="Jugendliche draußen">
+                        <p class="photo-caption">Ganztag: Naturerfahrung & Gemeinschaft</p>
+                    </div>
+                    <div class="programme-photo-item">
+                        <img src="Files/XXL_height.webp" alt="Jugendliche mit Blumen">
+                        <p class="photo-caption">Ganztag: Sinneserfahrung & Naturverbindung</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- CONTACT PAGE - WANDELWEISE STYLE -->
+    <div id="contact" class="page">
+        <div class="contact-hero">
+            <div class="container">
+                <span class="badge">✉ Kontakt</span>
+                <h1>Lassen Sie uns sprechen</h1>
+                <p class="subtitle">Der erste Schritt ist der wichtigste. Ich freue mich auf Ihre Nachricht.</p>
+            </div>
+        </div>
+
+        <div class="contact-options">
+            <div class="container">
+                <div class="contact-options-grid">
+                    <a href="https://wa.me/436604402541" class="contact-option-card highlight" id="whatsapp-card">
+                        <div class="icon">💬</div>
+                        <h3>WhatsApp</h3>
+                        <p>Schnelle Antwort für kurze Fragen</p>
+                    </a>
+                    <a href="mailto:naturprogramme@proton.me" class="contact-option-card" id="email-card">
+                        <div class="icon">✉️</div>
+                        <h3>E-Mail</h3>
+                        <p>Schreiben Sie mir</p>
+                    </a>
+                    <a href="#calendar" class="contact-option-card" onclick="scrollToCalendar(event)">
+                        <div class="icon">📅</div>
+                        <h3>Termin buchen</h3>
+                        <p>20 Min. kostenlos</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="calendar-section" id="calendar">
+            <div class="container">
+                <h2>Kostenloses Erstgespräch buchen</h2>
+                <p class="subtitle">20 Minuten, kostenlos und unverbindlich. Wählen Sie einfach einen freien Termin.</p>
+
+                <!-- Cal.com Inline Embed -->
+                <div id="cal-embed" style="width:100%; height:100%; overflow:scroll; max-width: 1000px; margin: 0 auto; min-height: 600px; background: rgba(255,255,255,0.03); border-radius: 12px;"></div>
+            </div>
+        </div>
+
+        <div class="contact-gallery">
+            <div class="container">
+                <div class="contact-gallery-grid">
+                    <div class="contact-gallery-item">
+                        <img src="Files/7680e0c0-cdf2-4710-9.jpeg" alt="Jugendliche im Park">
+                    </div>
+                    <div class="contact-gallery-item">
+                        <img src="Files/Xnip2025-01-08_16-39-11.jpg" alt="Picknick in der Natur">
+                    </div>
+                    <div class="contact-gallery-item">
+                        <img src="Files/premium_photo-1663100725992-3be782649c8b.jpeg" alt="Teamwork im Klassenraum">
+                    </div>
+                    <div class="contact-gallery-item">
+                        <img src="Files/group-cheerful-teenagers-sitting-outdoors-smiling-enjoying-their-time-together-friendship-happiness-concept_447653-28146.webp" alt="Fröhliche Gruppe draußen">
+                    </div>
+                    <div class="contact-gallery-item">
+                        <img src="Files/portrait-of-happy-high-school-students-looking-at-camera.webp" alt="Schulgruppe">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dark Footer for Contact Page -->
+        <footer class="dark-footer">
+            <div class="container">
+                <div class="footer-content">
+                    <div class="footer-left">
+                        <h3>Elisabeth Braunschmid</h3>
+                        <p>Naturpädagogik & Resilienz · Oberösterreich</p>
+                    </div>
+                    <div class="footer-right">
+                        <a href="impressum.html">Impressum</a>
+                        <a href="datenschutz.html">Datenschutz</a>
+                    </div>
+                </div>
+                <div class="footer-ngo-note">
+                    Auch für NGOs, Jugendorganisationen und kommunale Projekte verfügbar
+                </div>
+                <div class="footer-bottom">
+                    <p>© 2026 Elisabeth Braunschmid · Alle Rechte vorbehalten</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Regular Footer for other pages -->
+    <footer id="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <h3>Elisabeth Braunschmid</h3>
+                    <p>Naturpädagogik & Resilienz · Oberösterreich</p>
+                </div>
+                <div class="footer-right">
+                    <a href="impressum.html">Impressum</a>
+                    <a href="datenschutz.html">Datenschutz</a>
+                </div>
+            </div>
+            <div class="footer-ngo-note">
+                Auch für NGOs, Jugendorganisationen und kommunale Projekte verfügbar – <a href="mailto:info@naturpaedagogik-ooe.at" style="color: var(--teal-button);">Anfrage senden</a>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Elisabeth Braunschmid · Alle Rechte vorbehalten</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cal.com Embed Script -->
+    <script type="text/javascript">
+        (function (C, A, L) {
+            let p = function (a, ar) { a.q.push(ar); };
+            let d = C.document;
+            C.Cal = C.Cal || function () {
+                let cal = C.Cal;
+                let ar = arguments;
+                if (!cal.loaded) {
+                    cal.ns = {};
+                    cal.q = cal.q || [];
+                    d.head.appendChild(d.createElement("script")).src = A;
+                    cal.loaded = true;
+                }
+                if (ar[0] === L) {
+                    const api = function () { p(api, arguments); };
+                    const namespace = ar[1];
+                    api.q = api.q || [];
+                    typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar);
+                    return;
+                }
+                p(cal, ar);
+            };
+        })(window, "https://app.cal.com/embed/embed.js", "init");
+
+        // Initialize Cal.com - REPLACE WITH YOUR ACTUAL CAL.COM USERNAME
+        Cal("init", {origin:"https://cal.com"});
+        Cal("inline", {
+            elementOrSelector: "#cal-embed",
+            calLink: "elisabeth-braunschmid",
+            layout: "month_view",
+            config: {
+                theme: "dark"
+            }
+        });
+        Cal("ui", {
+            theme: "dark",
+            styles: { branding: { brandColor: "#3d5a52" } },
+            hideEventTypeDetails: false,
+            layout: "month_view"
+        });
+    </script>
+
+    <script>
+        function showPage(pageName) {
+            document.querySelectorAll('.page').forEach(page => {
+                page.classList.remove('active');
+            });
+            document.getElementById(pageName).classList.add('active');
+
+            // Handle footer visibility
+            const mainFooter = document.getElementById('main-footer');
+            if (pageName === 'contact') {
+                mainFooter.style.display = 'none';
+            } else {
+                mainFooter.style.display = 'block';
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function scrollToCalendar(event) {
+            event.preventDefault();
+            document.getElementById('calendar').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Mobile menu toggle
+        function toggleMobileMenu() {
+            const navLinks = document.querySelector('.nav-links');
+            const btnNav = document.querySelector('.btn-nav');
+            const menuBtn = document.querySelector('.mobile-menu-btn');
+            navLinks.classList.toggle('mobile-open');
+            btnNav.classList.toggle('mobile-open');
+            menuBtn.classList.toggle('active');
+        }
+
+        function closeMobileMenu() {
+            const navLinks = document.querySelector('.nav-links');
+            const btnNav = document.querySelector('.btn-nav');
+            const menuBtn = document.querySelector('.mobile-menu-btn');
+            navLinks.classList.remove('mobile-open');
+            btnNav.classList.remove('mobile-open');
+            menuBtn.classList.remove('active');
+        }
+    </script>
+</body>
+</html>

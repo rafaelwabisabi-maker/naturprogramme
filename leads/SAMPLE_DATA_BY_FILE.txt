@@ -1,0 +1,244 @@
+========================================================================================================================
+SAMPLE CONTACTS FROM EACH SOURCE FILE
+========================================================================================================================
+
+
+FILE 1: Naturpaedagogik_Prospect_Database_OOe.xlsx
+------------------------------------------------------------------------------------------------------------------------
+Columns in this file: 16
+Fields: Nr., Organisation, Kategorie, Typ, Stadt/Ort, Website, Kontakt-Email, Kurzbeschreibung, Warum sie zahlen wuerden, Tier, Status, Gesendet am, Antwort, Follow-up, DSGVO-Basis, Notizen
+
+Sample Contact 1:
+  Nr.: 1
+  Organisation: Landes-Jugendhaus Losenstein
+  Kategorie: Landes-Jugendhaus
+  Typ: Jugendunterkunft (Land OOe)
+  Stadt/Ort: Losenstein
+  Website: land-oberoesterreich.gv.at
+  Kontakt-Email: ljh-losenstein.post@ooe.gv.at
+  Kurzbeschreibung: Renoviert 2004, Seminarraum, Tor zum Nationalpark Kalkalpen, Vollpension
+  Warum sie zahlen wuerden: Schulgruppen brauchen Zusatzprogramme; Seminarraum bereit fuer ext. Anbieter
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 2:
+  Nr.: 2
+  Organisation: Landes-Jugendhaus Edtbauernalm
+  Kategorie: Landes-Jugendhaus
+  Typ: Jugendunterkunft (Land OOe)
+  Stadt/Ort: Hinterstoder
+  Website: land-oberoesterreich.gv.at
+  Kontakt-Email: ljh-hinterstoder.post@ooe.gv.at
+  Kurzbeschreibung: 1.365m, 76 Betten, 150m2 Seminarraum, Sportplatz, Nationalpark Kalkalpen
+  Warum sie zahlen wuerden: Projekt-/Sportwochen brauchen paed. Begleitprogramme; alpine Lage perfekt
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 3:
+  Nr.: 3
+  Organisation: Landes-Jugendhaus Wurzeralm
+  Kategorie: Landes-Jugendhaus
+  Typ: Jugendunterkunft (Land OOe)
+  Stadt/Ort: Spital am Pyhrn
+  Website: land-oberoesterreich.gv.at
+  Kontakt-Email: ljh-spital.post@ooe.gv.at
+  Kurzbeschreibung: 1.400m, 80 Betten, nur per Seilbahn, Sauna, Sportplatz, Kletterwand
+  Warum sie zahlen wuerden: Kletterprogramme zeigen ext. Anbieter-Infrastruktur; Schulgruppen zahlen
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+
+FILE 2: Naturpaedagogik_Schullandwochen_OOe.xlsx
+------------------------------------------------------------------------------------------------------------------------
+Columns in this file: 14
+Fields: Nr., Organisation, Kategorie, Aktion, Stadt/Ort, Website, Kontakt-Email, Kapazitaet, Kurzbeschreibung, Warum relevant, Tier, Status, DSGVO-Basis, Notizen
+
+Sample Contact 1:
+  Nr.: 1
+  Organisation: Karlingerhaus
+  Kategorie: Schullandwochen-Quartier
+  Aktion: Outreach
+  Stadt/Ort: Koenigswiesen
+  Website: karlingerhaus.at
+  Kontakt-Email: office@karlingerhaus.at
+  Kapazitaet: 55 Betten
+  Kurzbeschreibung: Jugend-/Familiengaestehaus, Hallenbad, Sportplatz, Lagerfeuer, Klimawochen fuer Schulen
+  Warum relevant: Explizit Schulklassen + Klimawochen = perfekter Fit fuer Naturpaedagogik
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 2:
+  Nr.: 2
+  Organisation: Hotel Sommerhaus Bad Leonfelden
+  Kategorie: Schullandwochen-Quartier
+  Aktion: Outreach
+  Stadt/Ort: Bad Leonfelden
+  Website: sommerhaus-hotel.at
+  Kontakt-Email: office.leonf@studentenwerk.at
+  Kapazitaet: 300 Betten
+  Kurzbeschreibung: Modernes Gruppenhotel, Sporthalle, Seminarraeume bis 30 Pers., Vollpension
+  Warum relevant: 300 Betten = grosse Kapazitaet; explizit Schulreisen; braucht Programmpartner
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 3:
+  Nr.: 3
+  Organisation: Seminarhof Schleglberg
+  Kategorie: Schullandwochen-Quartier
+  Aktion: Outreach
+  Stadt/Ort: Rottenbach
+  Website: seminarhof-schleglberg.at
+  Kontakt-Email: office@seminarhof-schleglberg.at
+  Kapazitaet: 100 Betten
+  Kurzbeschreibung: 50 Zimmer, 5 Seminarraeume, Wellness, Hausruckviertel, laendlich
+  Warum relevant: Grosser Seminarhof im Gruenen; Schulgruppen brauchen Erlebnisprogramme
+  Tier: Tier 1
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+
+FILE 3: Naturpaedagogik_Ferienpass_Gemeinden_OOe.xlsx
+------------------------------------------------------------------------------------------------------------------------
+Columns in this file: 12
+Fields: Nr., Gemeinde, Bezirk, Programmname, Kontakt-Email, Website/URL, Altersgruppe, Kurzbeschreibung, Fahrzeit ab Hellmonsodt, Status, DSGVO-Basis, Notizen
+
+Sample Contact 1:
+  Nr.: 1
+  Gemeinde: AK-Ferienspass / VHS OOe (Zentrale)
+  Bezirk: OOe-weit (16 Bezirke)
+  Programmname: AK-Ferienspass
+  Kontakt-Email: ferienspass@vhsooe.at
+  Website/URL: vhsooe.at/ak-ferienspass
+  Altersgruppe: ab 1. Klasse
+  Kurzbeschreibung: Dachprogramm der Arbeiterkammer: 16 Bezirke, kostenlos fuer AK-Kinder, 2 Wochen Aug.
+  Fahrzeit ab Hellmonsodt: OOe-weit
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 2:
+  Nr.: 2
+  Gemeinde: Hellmonsodt
+  Bezirk: Urfahr-Umgebung
+  Programmname: Kinderferienprogramm
+  Kontakt-Email: gemeinde@hellmonsoedt.ooe.gv.at
+  Website/URL: hellmonsoedt.ooe.gv.at
+  Altersgruppe: 6-15
+  Kurzbeschreibung: Bogenschiessen, Sport, Jugendzentrum-Events, lokale Vereine
+  Fahrzeit ab Hellmonsodt: ~0 min
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 3:
+  Nr.: 3
+  Gemeinde: Gramastetten
+  Bezirk: Urfahr-Umgebung
+  Programmname: Ferienspass Gramastetten
+  Kontakt-Email: gemeinde@gramastetten.ooe.gv.at
+  Website/URL: gramastetten.ooe.gv.at
+  Altersgruppe: Kinder
+  Kurzbeschreibung: Marktgemeinde Ferienprogramm, lokale Vereine und Betriebe
+  Fahrzeit ab Hellmonsodt: ~10 min
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+
+FILE 4: Naturpaedagogik_Grenzregionen.xlsx
+------------------------------------------------------------------------------------------------------------------------
+Columns in this file: 13
+Fields: Nr., Organisation, Region, Kategorie, Aktion, Stadt/Ort, Website, Kontakt-Email, Kurzbeschreibung, Fahrzeit ab Hellmonsodt, Status, DSGVO-Basis, Notizen
+
+Sample Contact 1:
+  Nr.: 1
+  Organisation: JUFA Hotel Salzburg City
+  Region: Salzburg
+  Kategorie: JUFA Hotel
+  Aktion: Outreach
+  Stadt/Ort: Salzburg Stadt
+  Website: jufahotels.com
+  Kontakt-Email: salzburg@jufa.eu
+  Kurzbeschreibung: 4-Sterne, 400 Pers. Kapazitaet, Seminarhotel, Kids Club, 2 Min. Altstadt
+  Fahrzeit ab Hellmonsodt: ~1:10
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 2:
+  Nr.: 2
+  Organisation: St. Virgil Salzburg
+  Region: Salzburg
+  Kategorie: Bildungshaus
+  Aktion: Outreach
+  Stadt/Ort: Salzburg
+  Website: virgil.at
+  Kontakt-Email: office@virgil.at
+  Kurzbeschreibung: Erzdioezese-Bildungszentrum, 4 Saele (400 Pers.), 10 Seminarraeume, Hotel
+  Fahrzeit ab Hellmonsodt: ~1:15
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 3:
+  Nr.: 3
+  Organisation: Haus der Natur Salzburg
+  Region: Salzburg
+  Kategorie: Museum/Umweltbildung
+  Aktion: Partnerschaft
+  Stadt/Ort: Salzburg Stadt
+  Website: hausdernatur.at
+  Kontakt-Email: office@hausdernatur.at
+  Kurzbeschreibung: Naturkundemuseum + Bildungszentrum, Workshops, Exkursionen, Auenwerkstatt
+  Fahrzeit ab Hellmonsodt: ~1:00
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+
+FILE 5: Naturpaedagogik_Extended_1h20_1h50.xlsx
+------------------------------------------------------------------------------------------------------------------------
+Columns in this file: 13
+Fields: Nr., Organisation, Region, Kategorie, Aktion, Stadt/Ort, Website, Kontakt-Email, Kurzbeschreibung, Fahrzeit ab Hellmonsodt, Status, DSGVO-Basis, Notizen
+
+Sample Contact 1:
+  Nr.: 1
+  Organisation: Nationalpark Gesaeuse
+  Region: Steiermark
+  Kategorie: Nationalpark/Umweltbildung
+  Aktion: Partnerschaft
+  Stadt/Ort: Weng im Gesaeuse
+  Website: nationalpark-gesaeuse.at
+  Kontakt-Email: info@nationalpark-gesaeuse.at
+  Kurzbeschreibung: UNESCO Global Geopark, Schul-/Jugendprogramme, Nationalpark-Ranger, Wildtier-Beobachtung
+  Fahrzeit ab Hellmonsodt: ~1:25
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 2:
+  Nr.: 2
+  Organisation: Naturpark Steirische Eisenwurzen
+  Region: Steiermark
+  Kategorie: Naturpark/Umweltbildung
+  Aktion: Partnerschaft
+  Stadt/Ort: St. Gallen (Stmk)
+  Website: eisenwurzen.com
+  Kontakt-Email: naturpark@eisenwurzen.com
+  Kurzbeschreibung: UNESCO Global Geopark, GeoPfad, WasserWelten, Schulprogramme Natur+Geologie
+  Fahrzeit ab Hellmonsodt: ~1:35
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+
+Sample Contact 3:
+  Nr.: 3
+  Organisation: Nationalpark Bayerischer Wald
+  Region: Bayern
+  Kategorie: Nationalpark/Umweltbildung
+  Aktion: Partnerschaft
+  Stadt/Ort: Grafenau
+  Website: nationalpark-bayerischer-wald.bayern.de
+  Kontakt-Email: poststelle@npv-bw.bayern.de
+  Kurzbeschreibung: Aeltester NP Deutschlands, Waldoekologie, Junior-Ranger, Schulklassenprogramme
+  Fahrzeit ab Hellmonsodt: ~1:35
+  Status: Ausstehend
+  DSGVO-Basis: Berechtigtes Interesse (Art. 6/1/f DSGVO)
+

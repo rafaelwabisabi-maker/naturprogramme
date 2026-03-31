@@ -1,0 +1,54 @@
+{
+  "project": "Naturprogramme",
+  "updated": "2026-03-08",
+  "license": "https://www.pexels.com/license/",
+  "photos": [
+    {
+      "id": 5036998,
+      "file": "np-kids-forest-picnic.jpg",
+      "alt": "Three kids having a picnic in a serene forest setting",
+      "photographer": "KATRIN BOLOVTSOVA",
+      "use": "hero — main landing page",
+      "url": "https://www.pexels.com/photo/people-sitting-on-the-grassy-ground-5036998/"
+    },
+    {
+      "id": 296301,
+      "file": "np-kids-teambuilding-outdoor.jpg",
+      "alt": "Children enjoy a team-building outdoor activity on a grassy field",
+      "photographer": "Lukas Blazek",
+      "use": "school program / group activities section",
+      "url": "https://www.pexels.com/photo/children-s-team-building-on-green-grassland-296301/",
+      "cdn": "https://images.pexels.com/photos/296301/pexels-photo-296301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": 33780221,
+      "file": "np-kids-scout-camp.jpg",
+      "alt": "Kids at outdoor scout camp with banners in the woods",
+      "photographer": "Sóc Năng Động",
+      "use": "program overview section",
+      "url": "https://www.pexels.com/photo/children-enjoy-outdoor-scout-camp-with-banners-33780221/"
+    },
+    {
+      "id": 8535570,
+      "file": "np-kids-outdoor-learning.jpg",
+      "alt": "Group of children with teacher outdoor learning",
+      "photographer": "Ksenia Chernaya",
+      "use": "school program section",
+      "url": "https://www.pexels.com/photo/kids-listening-to-their-teacher-8535570/"
+    },
+    {
+      "id": 35107611,
+      "file": "np-kids-celebrating-outdoors.jpg",
+      "alt": "Group of children in uniforms holding hands and celebrating outside",
+      "photographer": "gsregvrd",
+      "use": "community / results section",
+      "url": "https://www.pexels.com/photo/happy-schoolchildren-celebrating-outdoors-35107611/",
+      "cdn": "https://images.pexels.com/photos/35107611/pexels-photo-35107611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    }
+  ],
+  "broll_queries": [
+    "children running forest nature Austria",
+    "kids building campfire outdoor education",
+    "school children forest walk teacher"
+  ]
+}

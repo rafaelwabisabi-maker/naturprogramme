@@ -1,0 +1,1074 @@
+========================================================================================================================
+COMPLETE CONTACT DATABASE - INDEX AND QUICK REFERENCE
+========================================================================================================================
+
+
+FILE 1: Naturpaedagogik_Prospect_Database_OOe.xlsx
+Total Contacts: 39
+------------------------------------------------------------------------------------------------------------------------
+
+  1. [1] Landes-Jugendhaus Losenstein
+     Location: Losenstein | Category: Landes-Jugendhaus
+     Email: ljh-losenstein.post@ooe.gv.at
+     Description: Renoviert 2004, Seminarraum, Tor zum Nationalpark Kalkalpen, Vollpension
+     Typ: Jugendunterkunft (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  2. [1] Landes-Jugendhaus Edtbauernalm
+     Location: Hinterstoder | Category: Landes-Jugendhaus
+     Email: ljh-hinterstoder.post@ooe.gv.at
+     Description: 1.365m, 76 Betten, 150m2 Seminarraum, Sportplatz, Nationalpark Kalkalpen
+     Typ: Jugendunterkunft (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  3. [1] Landes-Jugendhaus Wurzeralm
+     Location: Spital am Pyhrn | Category: Landes-Jugendhaus
+     Email: ljh-spital.post@ooe.gv.at
+     Description: 1.400m, 80 Betten, nur per Seilbahn, Sauna, Sportplatz, Kletterwand
+     Typ: Jugendunterkunft (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  4. [1] Landes-Jugendhaus Aigen
+     Location: Aigen-Schlaegl | Category: Landes-Jugendhaus
+     Email: ljh-aigen.post@ooe.gv.at
+     Description: 80 Betten, ganzjaehrig, Boehmerwald-Suedhang, Adalbert-Stifter-Jugendherberge
+     Typ: Jugendunterkunft (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  5. [1] JUFA Hotel Spital am Pyhrn
+     Location: Spital am Pyhrn | Category: JUFA Hotel
+     Email: spitalpyhrn@jufahotels.com
+     Description: 150+ Betten, barockes Kloster, Familien/Gruppen/Seminare, ganzjaehrig
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  6. [1] JUFA Hotel Gruenau im Almtal
+     Location: Gruenau im Almtal | Category: JUFA Hotel
+     Email: almtal@jufahotels.com
+     Description: 180+ Betten, modern, Naturschutzgebiet, Familien/Schulgruppen/Seminare
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  7. [1] Jutel Hinterstoder
+     Location: Hinterstoder | Category: Jutel
+     Email: hinterstoder@jutel.at
+     Description: 99 Betten, an der Steyr, modern, barrierefrei, ganzjaehrig
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  8. [1] Jutel Obertraun
+     Location: Obertraun | Category: Jutel
+     Email: obertraun@jutel.at
+     Description: 113 Betten, Seminarraeume, Spielplaetze, Dachstein-Salzkammergut
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+  9. [1] Jugendgaestehaus Linz
+     Location: Linz | Category: Junge Hotels
+     Email: linz@myhostel.at
+     Description: 280 Betten, zentral mit Gruen, barrierefrei, groesste JH in OOe
+     Typ: Jugendunterkunft (Verband)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 10. [1] Jugendgaestehaus Bad Ischl
+     Location: Bad Ischl | Category: Junge Hotels
+     Email: badischl@myhostel.at
+     Description: 115 Betten, Schwimmbaeder gegenueber, barrierefrei, Salzkammergut
+     Typ: Jugendunterkunft (Verband)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 11. [1] Youth Hostel Mondsee
+     Location: Mondsee | Category: Junge Hotels
+     Email: mondsee@myhostel.at
+     Description: 80 Betten, Seminarraeume, Fussdistanz zum Mondsee, Familienraeume
+     Typ: Jugendunterkunft (Verband)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 12. [1] Youth Hostel Steyr
+     Location: Steyr | Category: Junge Hotels
+     Email: jugendherberge@studentenwohnheim-steyr.at
+     Description: 350+ Betten, groesster Seminarbetrieb, Nationalpark-Naehe
+     Typ: Jugendunterkunft (Verband)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 13. [1] Europacamp Weissenbach
+     Location: Steinbach am Attersee | Category: Europacamp
+     Email: office@europacamp.at
+     Description: 200+ Betten (Hostel+Bungalows+Camping), Seminarraeume, Attersee-Zugang
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 14. [1] Jugend- und Seminarhaus Obernberg
+     Location: Obernberg am Inn | Category: Seminarhaus
+     Email: info@jugendhaus-obernberg.at
+     Description: Seminarbetrieb mit Jugendgruppen, mehrtaegige Formate
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 15. [1] Lindenhof - Das Jugendparadies
+     Location: Spital am Pyhrn | Category: Kinder-/Jugendparadies
+     Email: office@lindenhof.at
+     Description: 190 Betten, Spezialist fuer Schulveranstaltungen, Projektwochen, Sportwochen
+     Typ: Jugendunterkunft (privat)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 16. [1] Bildungshaus Breitenstein
+     Location: Kirchschlag bei Linz | Category: Bildungshaus
+     Email: office@breitenstein.or.at
+     Description: 20 Betten, Wald-Lage, Bogenschiessen+Hochseilgarten, 40J Erfahrung
+     Typ: Bildungshaus (kirchlich)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 17. [1] Bildungshaus Schloss Puchberg
+     Location: Wels | Category: Bildungshaus
+     Email: puchberg@dioezese-linz.at
+     Description: Renaissance-Schloss, 800 Events/Jahr, 60.000 TN, Familie+Kinder+Paedagogik
+     Typ: Bildungshaus (Dioezese)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 18. [1] Bildungsschloss Weinberg
+     Location: Kefermarkt | Category: Bildungsschloss
+     Email: schloss-weinberg.post@ooe.gv.at
+     Description: 36 Zimmer, 10 Seminarraeume, Schulklassen-Fuehrungen, Muehlviertel
+     Typ: Bildungshaus (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 19. [1] Bildungsschloss Zell an der Pram
+     Location: Zell an der Pram | Category: Bildungsschloss
+     Email: schloss-zell.post@ooe.gv.at
+     Description: 18. Jhd. Schloss, Meisterkurse fuer Jugend, Seminare, Innviertel
+     Typ: Bildungshaus (Land OOe)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 20. [1] Stift Reichersberg Bildungszentrum
+     Location: Reichersberg | Category: Bildungszentrum
+     Email: info@stift-reichersberg.at
+     Description: 51 Gaeste, 57 Kurse/Jahr, Schnitzen/Kalligrafie/Meditation, Augustiner
+     Typ: Bildungshaus (Kloster)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 21. [1] Stift Schlierbach Bildungszentrum
+     Location: Schlierbach | Category: Bildungszentrum
+     Email: bildungszentrum@stift-schlierbach.at
+     Description: Zisterzienser seit 1355, Kreativkurse, explizit Schulklassen+Jugendgruppen
+     Typ: Bildungshaus (Kloster)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 22. [1] Stift Schlaegl Seminarzentrum
+     Location: Aigen-Schlaegl | Category: Seminarzentrum
+     Email: seminar@stift-schlaegl.at
+     Description: 4 Seminarraeume, 37 Betten, Sport+Bewegung, Kinderspielplatz, Muehlviertel
+     Typ: Bildungshaus (Kloster)
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 23. [1] Bildungshaus Greisinghof
+     Location: Tragwein | Category: Bildungshaus
+     Email: bildungshaus@greisinghof.at
+     Description: 24 Zimmer, Marianisten+Dioezese, ganzjaehrig, Seminarinfrastruktur
+     Typ: Bildungshaus (Dioezese)
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 24. [1] Bildungszentrum St. Franziskus
+     Location: Ried im Innkreis | Category: Bildungszentrum
+     Email: franziskushaus@dioezese-linz.at
+     Description: Dioezesanes BZ, ext. Gruppen willkommen, Jugendbuero Ried im selben Haus
+     Typ: Bildungshaus (Dioezese)
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 25. [1] JugendService OOe (Land OOe)
+     Location: Linz (14 Standorte) | Category: Landesstelle
+     Email: jugendservice@ooe.gv.at
+     Description: Staatlicher Jugenddienst, 14 Standorte, Abenteuer-/Technik-/Sportcamps 8-21J
+     Typ: Ferienprogramm-Betreiber
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 26. [1] OOe Familienbund
+     Location: Linz (150+ Standorte) | Category: Familienorganisation
+     Email: office@ooe.familienbund.at
+     Description: 150+ Standorte, ~4.000 Kinder/Jahr, Ferienbetreuung, Gemeinde-Konzepte
+     Typ: Ferienprogramm-Betreiber
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 27. [1] Kinderfreunde OOe (Ferienprogramme)
+     Location: OOe-weit | Category: Familienorganisation
+     Email: ferien@kinderfreunde.cc
+     Description: Feriencamps, Ferien im Betrieb, Wassercamps, Actioncamps, regional
+     Typ: Ferienprogramm-Betreiber
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 28. [1] OOe Hilfswerk
+     Location: Linz (OOe-weit) | Category: Sozialtraeger
+     Email: office@ooe.hilfswerk.at
+     Description: Horte, Nachmittagsbetreuung 6-14J, Ferienbetreuung, institutionell
+     Typ: Hort-/Ferienbetreuung
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 29. [1] Jugendrotkreuz OOe
+     Location: Linz (80+ Ortsgruppen) | Category: Jugendorganisation
+     Email: jrk@o.roteskreuz.at
+     Description: 80+ Ortsgruppen in OOe, 9.000+ Jugendliche, Fuehrungstraining, 6-18J
+     Typ: Ferienprogramm-Betreiber
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 30. [1] Stadt Linz - Kinder- und Jugendbuero
+     Location: Linz | Category: Gemeinde
+     Email: jugend@mag.linz.at
+     Description: Aktiv-Tage Sommerprogramm, Kurse+Workshops+Exkursionen, 6-15J
+     Typ: Kommunales Ferienprogramm
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 31. [1] Stadt Wels - Ferienprogramm
+     Location: Wels | Category: Gemeinde
+     Email: ferienprogramm@wels.gv.at
+     Description: Sommerferienbetreuung, Semesterferien, Weihnachten, 5 Hortstandorte
+     Typ: Kommunales Ferienprogramm
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 32. [1] Nationalpark Kalkalpen
+     Location: Molln/Region | Category: Nationalpark
+     Email: office@kalkalpen.at
+     Description: Einziger Kalkstein-Nationalpark AT, WildnisCamp, Rangerprogramme, Schulprogramme
+     Typ: Naturpark/Umweltbildung
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 33. [1] Naturpark Muehlviertel
+     Location: Rechberg | Category: Naturpark
+     Email: info@naturpark-muehlviertel.at
+     Description: Magerwiesen, Granitbloecke, Naturpark des Jahres 2019, gef. Touren 12+
+     Typ: Naturpark/Umweltbildung
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 34. [1] Naturpark Attersee-Traunsee
+     Location: Steinbach am Attersee | Category: Naturpark
+     Email: naturpark@attersee-traunsee.at
+     Description: Groesster Naturpark OOe, Seen+Berge, DarkSky Park, Schulprogramme
+     Typ: Naturpark/Umweltbildung
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 35. [1] Naturpark Obst-Huegel-Land
+     Location: St. Marienkirchen | Category: Naturpark
+     Email: info@obsthuegelland.at
+     Description: Streuobstwiesen, Schartner Kirschen, Insekten-Workshops fuer Schulen
+     Typ: Naturpark/Umweltbildung
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 36. [1] Naturpark Bauernland
+     Location: Mondsee | Category: Naturpark
+     Email: info@naturpark-bauernland.at
+     Description: Juengster Naturpark OOe, Irrsee/Mondsee/Attersee, Landwirtschaft+Natur
+     Typ: Naturpark/Umweltbildung
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 37. [1] VHS Linz / Wissensturm
+     Location: Linz | Category: Volkshochschule
+     Email: wissensturm@mag.linz.at
+     Description: 5.000+ Kurse/Jahr, Natur-/Outdoor-/Familienkurse, groesste VHS OOe
+     Typ: Erwachsenenbildung
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 38. [1] VHS Oberoesterreich (Zentrale)
+     Location: Linz | Category: Volkshochschule
+     Email: service@vhsooe.at
+     Description: 100+ Gemeinden, 5.000 Kurse/Jahr, Netzwerk fuer Programmvermittlung
+     Typ: Erwachsenenbildung
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 39. [1] Katholische Jugend OOe
+     Location: Linz (dioezesanweit) | Category: Kirchl. Jugendorg.
+     Email: kj@dioezese-linz.at
+     Description: Jugendarbeit in Pfarren, Lager, Zielgruppe 14-19, dioezesanweit
+     Typ: Jugendorganisation
+     Status: Ausstehend
+     Tier: Tier 2
+
+
+FILE 2: Naturpaedagogik_Schullandwochen_OOe.xlsx
+Total Contacts: 18
+------------------------------------------------------------------------------------------------------------------------
+
+ 40. [2] Karlingerhaus
+     Location: Koenigswiesen | Category: Schullandwochen-Quartier
+     Email: office@karlingerhaus.at
+     Description: Jugend-/Familiengaestehaus, Hallenbad, Sportplatz, Lagerfeuer, Klimawochen fuer Schulen
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 41. [2] Hotel Sommerhaus Bad Leonfelden
+     Location: Bad Leonfelden | Category: Schullandwochen-Quartier
+     Email: office.leonf@studentenwerk.at
+     Description: Modernes Gruppenhotel, Sporthalle, Seminarraeume bis 30 Pers., Vollpension
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 42. [2] Seminarhof Schleglberg
+     Location: Rottenbach | Category: Schullandwochen-Quartier
+     Email: office@seminarhof-schleglberg.at
+     Description: 50 Zimmer, 5 Seminarraeume, Wellness, Hausruckviertel, laendlich
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 43. [2] Naturfreunde Sporthotel Gruenau
+     Location: Gruenau im Almtal | Category: Schullandwochen-Quartier
+     Email: office@wimmergreuthgruenau.at
+     Description: Familienhotel, Schulklassen+Vereine willkommen, Almtal-Naturlage
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 44. [2] Seminarhaus Auf der Gugl
+     Location: Linz | Category: Schullandwochen-Quartier
+     Email: ghg@lk-ooe.at
+     Description: Modernes Seminarhaus der LK OOe, 16 Raeume, zentral in Linz
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 45. [2] Almtalerhaus (OeAV)
+     Location: Gruenau im Almtal | Category: Schullandwochen-Quartier
+     Email: servus@almkinder.at
+     Description: OeAV-Huette, Spielplatz, Kletterwand, Trampolin, Mai-September
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 46. [2] ISK - Lifecamp / Burg Altpernstein
+     Location: Linz / Micheldorf / Hinterstoder | Category: Erlebnispaedagogik-Anbieter
+     Email: office@isk-austria.at
+     Description: GROESSTER Erlebnis-Anbieter OOe: Burg Altpernstein + Lifecamp Hinterstoder, Projektwochen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 47. [2] Funiversum / Burg der Begegnung
+     Location: St. Oswald bei Freistadt | Category: Erlebnispaedagogik-Anbieter
+     Email: office@funiversum.at
+     Description: Schulprojekttage, Sportwochen, Bauernhofschule, Teambuilding, Muehlviertel
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 48. [2] Waldschule Linz (Land OOe)
+     Location: Wilhering | Category: Waldpaedagogik (staatlich)
+     Email: lfw.post@ooe.gv.at
+     Description: Offizielle Waldpaedagogik des Landes OOe, Schulexkursionen, alle Altersstufen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 49. [2] Projekttage.org (Verein Freispiel)
+     Location: Wien (oesterreichweit) | Category: Projektwochen-Plattform
+     Email: info@projekttage.org
+     Description: Groesster Anbieter betreuter Schulprojekttage/-wochen in AT, auch OOe
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 50. [2] Teamkiste / Schulprojektwoche.at
+     Location: Wien (oesterreichweit) | Category: Projektwochen-Plattform
+     Email: info@teamkiste.at
+     Description: Online-Buchungsplattform fuer betreute Projektwochen, ex-Freiraum-Team
+     Aktion: Registrieren
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 51. [2] Projektwochen.at (Verein Lind Horn)
+     Location: Lackenhof (oesterreichweit) | Category: Projektwochen-Plattform
+     Email: info@projektwochen.at
+     Description: Verein zur Organisation von Projektwochen fuer Schulklassen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 52. [2] Cool Tours
+     Location: Graz (oesterreichweit) | Category: Projektwochen-Vermittler
+     Email: office@cooltours.at
+     Description: Sprachreisen, Kulturtrips, regionale Projekttage mit nachhaltigen Aktivitaeten
+     Aktion: Partnerschaft
+     Status: Ausstehend
+     Tier: Tier 2
+
+ 53. [2] Bildungsdirektion Oberoesterreich
+     Location: Linz | Category: Bildungsbehoerde
+     Email: bd.post@bildung-ooe.gv.at
+     Description: Zentrale Schulbehoerde OOe, foerdert Schulveranstaltungen (60-150 Euro Zuschuss)
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 54. [2] Paedagogische Hochschule OOe
+     Location: Linz | Category: Lehrerausbildung
+     Email: office@ph-ooe.at
+     Description: Lehrerausbildung + Fortbildung, Sport/Bewegung/Gesundheit, 6:30-22:00
+     Aktion: Outreach
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 55. [2] Donau Oberoesterreich Tourismus
+     Location: Linz | Category: Tourismus-Plattform
+     Email: info@donauregion.at
+     Description: Regionale Tourismus-GmbH, betreibt Schulportal fuer Schulausflug-Buchungen
+     Aktion: Registrieren
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 56. [2] Gruppenhaus.de (OOe-Listings)
+     Location: Deutschland (AT-weit) | Category: Unterkunfts-Plattform
+     Email: via Plattform-Formular
+     Description: 149 Gruppenhaeuser + 35 Schullandheime in AT gelistet, groesstes Portal
+     Aktion: Registrieren
+     Status: Ausstehend
+     Tier: Tier 1
+
+ 57. [2] Sportwochen.org (Servicestelle)
+     Location: Wien (oesterreichweit) | Category: Schulsportwochen-Portal
+     Email: via Plattform
+     Description: Zentrales Portal fuer Schulsportwochen, BMBWF + WKOe + Sport Austria
+     Aktion: Registrieren
+     Status: Ausstehend
+     Tier: Tier 2
+
+
+FILE 3: Naturpaedagogik_Ferienpass_Gemeinden_OOe.xlsx
+Total Contacts: 38
+------------------------------------------------------------------------------------------------------------------------
+
+ 58. [3] N/A
+     Location: N/A | Category: N/A
+     Email: ferienspass@vhsooe.at
+     Description: Dachprogramm der Arbeiterkammer: 16 Bezirke, kostenlos fuer AK-Kinder, 2 Wochen Aug.
+     Status: Ausstehend
+
+ 59. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@hellmonsoedt.ooe.gv.at
+     Description: Bogenschiessen, Sport, Jugendzentrum-Events, lokale Vereine
+     Status: Ausstehend
+
+ 60. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@gramastetten.ooe.gv.at
+     Description: Marktgemeinde Ferienprogramm, lokale Vereine und Betriebe
+     Status: Ausstehend
+
+ 61. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@kirchschlag.ooe.gv.at
+     Description: Vielfaeltiges Programm mit Vereinen und Institutionen, alle Altersgruppen
+     Status: Ausstehend
+
+ 62. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@walding.ooe.gv.at
+     Description: Gemeinde-Ferienspass mit lokalen Vereinen
+     Status: Ausstehend
+
+ 63. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@altenberg.ooe.gv.at
+     Description: Landespreis fuer attraktives Ferienprogramm, unser-ferienprogramm.de Plattform
+     Status: Ausstehend
+
+ 64. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@herzogsdorf.ooe.gv.at
+     Description: Online-Buchung, Vereine+Institutionen+Privatpersonen als Anbieter
+     Status: Ausstehend
+
+ 65. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@engerwitzdorf.gv.at
+     Description: Therapiehunde, Bogenschiessen, Acrylmalerei, Radtouren, Bollywood-Tanz
+     Status: Ausstehend
+
+ 66. [3] N/A
+     Location: N/A | Category: N/A
+     Email: stadtgemeinde@gallneukirchen.at
+     Description: Buecherinsel, Bogenschiessen, Kreativwettbewerbe, Sommerauslagen
+     Status: Ausstehend
+
+ 67. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@steyregg.ooe.gv.at
+     Description: Schwimmen, Feuerwehr, Theater, Kurse+Workshops+Ausfluege
+     Status: Ausstehend
+
+ 68. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@feldkirchen-donau.ooe.gv.at
+     Description: Wasseraktivitaeten, 4 Badeseen, Aquapark, Familienangebote
+     Status: Ausstehend
+
+ 69. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@alberndorf.ooe.gv.at
+     Description: Ferienaktivitaeten oberes Muehlviertel
+     Status: Ausstehend
+
+ 70. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@reichenthal.ooe.gv.at
+     Description: Ferienpass fuer daheimgebliebene Kinder
+     Status: Ausstehend
+
+ 71. [3] N/A
+     Location: N/A | Category: N/A
+     Email: post@freistadt.ooe.gv.at
+     Description: ~50 Events: Schnorcheln, Bootsrennen, Raetselrallyes, Kino, Klettern, 3D-Druck
+     Status: Ausstehend
+
+ 72. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@pregarten.ooe.gv.at
+     Description: Bauernhofbesuche, Brotbacken, Marmeladekochen, Outdoor-Abenteuer
+     Status: Ausstehend
+
+ 73. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@neumarkt-muehlkreis.ooe.gv.at
+     Description: Seit 1994, fuer lokale Schulkinder und Touristen
+     Status: Ausstehend
+
+ 74. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@kefermarkt.ooe.gv.at
+     Description: Gemeinde-Ferienprogramm, lokale Vereine
+     Status: Ausstehend
+
+ 75. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@rohrbach-berg.ooe.gv.at
+     Description: Hula Hoop, Robotik, Kochen, Astronomie, Fischen, Lagerfeuer, Klettern
+     Status: Ausstehend
+
+ 76. [3] N/A
+     Location: N/A | Category: N/A
+     Email: rathaus@leonding.at
+     Description: 40 versch. Veranstaltungen, 8 Wochen, Uebernachtung im Rathaus, Baumkronenpfad
+     Status: Ausstehend
+
+ 77. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@traun.at
+     Description: AK-Ferienspass: Sport, Basteln, Ausfluege, Spiele
+     Status: Ausstehend
+
+ 78. [3] N/A
+     Location: N/A | Category: N/A
+     Email: kulturjugendsport@ansfelden.at
+     Description: Eigene Ferienaktion-Website, Kultur/Jugend/Sport-Abteilung organisiert
+     Status: Ausstehend
+
+ 79. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@pasching.at
+     Description: Spielen, Entdecken, Sport, Kreativitaet, Anmeldung ab Juni
+     Status: Ausstehend
+
+ 80. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@hoersching.ooe.gv.at
+     Description: Natur, Wasserrettung, Workshops, Online-Anmeldung ab Juli
+     Status: Ausstehend
+
+ 81. [3] N/A
+     Location: N/A | Category: N/A
+     Email: office@enns.ooe.gv.at
+     Description: 40+ Events: Tennis, Klettern, Yoga, Tanz, Wissenschaft, Betriebsbesuche
+     Status: Ausstehend
+
+ 82. [3] N/A
+     Location: N/A | Category: N/A
+     Email: jugend@thalheim.at
+     Description: Englisch-Camps, Schwimmkurse, Eventjet-Buchungssystem, ab Mai buchbar
+     Status: Ausstehend
+
+ 83. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeindeamt@marchtrenk.gv.at
+     Description: Eines der aeltesten Programme in OOe, Camping, Tennis, Sport+Kunst
+     Status: Ausstehend
+
+ 84. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@pichl.ooe.gv.at
+     Description: Vereine, Feuerwehr, Betriebe als Anbieter
+     Status: Ausstehend
+
+ 85. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@kremsmuenster.ooe.gv.at
+     Description: Seit 1998, Online-Buchung, Bogenschiessen, Tierkontakt, Wassererlebnisse
+     Status: Ausstehend
+
+ 86. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@garsten.ooe.gv.at
+     Description: Ferienpass + HEY! Feriencamp (14.7.-22.8.), vielfaeltige Aktivitaeten
+     Status: Ausstehend
+
+ 87. [3] N/A
+     Location: N/A | Category: N/A
+     Email: culturamt@gmunden.ooe.gv.at
+     Description: ~60 Events/Kurse/Workshops/Ausfluege, Sport+Abenteuer+Kreativ, Kulturamt org.
+     Status: Ausstehend
+
+ 88. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@altmuenster.ooe.gv.at
+     Description: Toepfern, Schnitzen, Wasserrettung, Feuerwehr, Online-Anmeldung ab Juli
+     Status: Ausstehend
+
+ 89. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@laakirchen.ooe.gv.at
+     Description: Gemeinde-Ferienpass, lokale Angebote
+     Status: Ausstehend
+
+ 90. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@voecklabruck.at
+     Description: 20 Jahre, ~60 Events: Klettern, Skaten, Tennis, Naehen, Malen, Geocaching
+     Status: Ausstehend
+
+ 91. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@attnang-puchheim.ooe.gv.at
+     Description: Online-Anmeldung ab Ende Juni, diverse Aktivitaeten
+     Status: Ausstehend
+
+ 92. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@schwanenstadt.at
+     Description: Gemeinde-Ferienspass
+     Status: Ausstehend
+
+ 93. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@perg.ooe.gv.at
+     Description: MUEKIS Muehlviertler Kinderspiele, Anmeldung ab Mitte Juni
+     Status: Ausstehend
+
+ 94. [3] N/A
+     Location: N/A | Category: N/A
+     Email: post@ried.ooe.gv.at
+     Description: Schnorcheln, Tanzwochen, Beachvolleyball, Imkern, 20+ Jahre Tradition
+     Status: Ausstehend
+
+ 95. [3] N/A
+     Location: N/A | Category: N/A
+     Email: gemeinde@hohenzell.ooe.gv.at
+     Description: Ferienspasstage fuer Kinder
+     Status: Ausstehend
+
+
+FILE 4: Naturpaedagogik_Grenzregionen.xlsx
+Total Contacts: 20
+------------------------------------------------------------------------------------------------------------------------
+
+ 96. [4] JUFA Hotel Salzburg City
+     Location: Salzburg Stadt | Category: JUFA Hotel
+     Email: salzburg@jufa.eu
+     Description: 4-Sterne, 400 Pers. Kapazitaet, Seminarhotel, Kids Club, 2 Min. Altstadt
+     Aktion: Outreach
+     Status: Ausstehend
+
+ 97. [4] St. Virgil Salzburg
+     Location: Salzburg | Category: Bildungshaus
+     Email: office@virgil.at
+     Description: Erzdioezese-Bildungszentrum, 4 Saele (400 Pers.), 10 Seminarraeume, Hotel
+     Aktion: Outreach
+     Status: Ausstehend
+
+ 98. [4] Haus der Natur Salzburg
+     Location: Salzburg Stadt | Category: Museum/Umweltbildung
+     Email: office@hausdernatur.at
+     Description: Naturkundemuseum + Bildungszentrum, Workshops, Exkursionen, Auenwerkstatt
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+ 99. [4] Salzburg Zoo - Zooschule
+     Location: Anif | Category: Zoo/Umweltbildung
+     Email: erlebnis@salzburg-zoo.at
+     Description: Zooschule, gef. Touren, Arbeitsblatter, Schulprogramme 6-14J, 365 Tage offen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+100. [4] Junges Hotel Eduard-Heinrich-Haus
+     Location: Salzburg Stadt | Category: Jugendherberge
+     Email: heinrichhaus@hostel-salzburg.at
+     Description: 138 Betten, ganzjaehrig, Seminarraeume, Schulgruppen+Familien
+     Aktion: Outreach
+     Status: Ausstehend
+
+101. [4] Junges Hotel Wals-Siezenheim
+     Location: Wals | Category: Jugendherberge
+     Email: wals@hostel-salzburg.at
+     Description: 156 Betten, Sommer+Ferien, nahe Salzburg, Schulgruppen
+     Aktion: Outreach
+     Status: Ausstehend
+
+102. [4] Junges Hotel Obertrum am See
+     Location: Obertrum am See | Category: Jugendherberge
+     Email: office@hostel-obertrum.at
+     Description: 244 Betten, See-Lage, Seminarraum, Sportplaetze, Schulwochen
+     Aktion: Outreach
+     Status: Ausstehend
+
+103. [4] Kletterpark Salzburg (Waldbad Anif)
+     Location: Anif | Category: Erlebnispaedagogik
+     Email: office@kletterpark-salzburg.at
+     Description: Hochseilgarten, Erlebnispaed. Programme, Schulpreise ab 24 Euro/Schueler
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+104. [4] Freiluftleben
+     Location: Salzburg | Category: Outdoor-Paedagogik
+     Email: info@freiluftleben.at
+     Description: Netzwerk freiberufl. Bergfuehrer+Paedagogen, Outdoor-Programme, Teambuilding
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+105. [4] Hanneshof Flachau
+     Location: Flachau | Category: Schullandwochen-Spezialist
+     Email: info@hanneshof.at
+     Description: Jugend-/Familienhotel, Sporthalle, Trampolin, Schulwochen-Spezialist
+     Aktion: Outreach
+     Status: Ausstehend
+
+106. [4] Haus am Strom (Umweltstation)
+     Location: Untergriesbach/Jochenstein | Category: Umweltbildungszentrum
+     Email: info@hausamstrom.de
+     Description: Landkreis-Umweltstation, Donauoekologie, VR-Ausstellung, Schulprogramme
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+107. [4] DJH Jugendherberge Passau
+     Location: Passau | Category: Jugendherberge
+     Email: passau@jugendherberge.de
+     Description: 129 Betten, Kulturjugendherberge, 8.500 Gaeste/Jahr, Workshops, Kraeuterpaed.
+     Aktion: Outreach
+     Status: Ausstehend
+
+108. [4] Haus der Jugend Passau (Bistum)
+     Location: Passau | Category: Jugendhaus (kirchlich)
+     Email: jugendhaeuser@bistum-passau.de
+     Description: 102 Betten, 30 Zimmer, Seminarraeume, Schulklassen+Jugendgruppen, Veste Oberhaus
+     Aktion: Outreach
+     Status: Ausstehend
+
+109. [4] Oekologisches Zentrum Stelzlhof
+     Location: Passau | Category: Umweltbildungszentrum
+     Email: info@stelzlhof.de
+     Description: Bund Naturschutz, Umweltbildung.Bayern, Hecken/Streuobst/Insekten/Wald/Wasser
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+110. [4] Jugendgaestehaus Sallingstadt
+     Location: Schweiggers | Category: Schullandwochen-Quartier
+     Email: jugendgaestehaus@sallingstadt.net
+     Description: 30 Jahre Erfahrung, betreute Schulwochen, Gruppenaktivitaeten, Projektwochen
+     Aktion: Outreach
+     Status: Ausstehend
+
+111. [4] Junges Hotel Bad Grosspertholz
+     Location: Bad Grosspertholz | Category: Jugendherberge
+     Email: badgrosspertholz@noejhw.at
+     Description: 55 Betten, Naturpark Nordwald, Apr-Okt, Bewegung in Natur
+     Aktion: Outreach
+     Status: Ausstehend
+
+112. [4] Youth Hostel Neu Nagelberg
+     Location: Neu Nagelberg | Category: Jugendherberge
+     Email: office.3871@hostel.or.at
+     Description: 37 Betten, idyllisch am Badeteich, Familien+Schulen+Gruppen, Naturnaehe
+     Aktion: Outreach
+     Status: Ausstehend
+
+113. [4] Bildungshaus Stift Zwettl
+     Location: Zwettl | Category: Bildungshaus (Kloster)
+     Email: bildungshaus@stift-zwettl.at
+     Description: Zisterzienser seit 1138, Seminare, Meditation, Umwelt, Kreativitaet, Gruppen
+     Aktion: Outreach
+     Status: Ausstehend
+
+114. [4] GEA Akademie Schrems
+     Location: Schrems | Category: Seminarhaus
+     Email: akademie@gea.at
+     Description: Seminarzentrum, Kurse+Bildungsprogramme, Gruppenunterkuenfte
+     Aktion: Outreach
+     Status: Ausstehend
+
+115. [4] Waldviertel Tourismus (Jugendtourismus)
+     Location: Zwettl | Category: Tourismus-Plattform
+     Email: info@jugendtourismus.at
+     Description: Zentrale Buchungsstelle fuer Schulwochen im Waldviertel, 21 Mitglieder
+     Aktion: Registrieren
+     Status: Ausstehend
+
+
+FILE 5: Naturpaedagogik_Extended_1h20_1h50.xlsx
+Total Contacts: 31
+------------------------------------------------------------------------------------------------------------------------
+
+116. [5] Nationalpark Gesaeuse
+     Location: Weng im Gesaeuse | Category: Nationalpark/Umweltbildung
+     Email: info@nationalpark-gesaeuse.at
+     Description: UNESCO Global Geopark, Schul-/Jugendprogramme, Nationalpark-Ranger, Wildtier-Beobachtung
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+117. [5] Naturpark Steirische Eisenwurzen
+     Location: St. Gallen (Stmk) | Category: Naturpark/Umweltbildung
+     Email: naturpark@eisenwurzen.com
+     Description: UNESCO Global Geopark, GeoPfad, WasserWelten, Schulprogramme Natur+Geologie
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+118. [5] Nationalpark Bayerischer Wald
+     Location: Grafenau | Category: Nationalpark/Umweltbildung
+     Email: poststelle@npv-bw.bayern.de
+     Description: Aeltester NP Deutschlands, Waldoekologie, Junior-Ranger, Schulklassenprogramme
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+119. [5] Haus zur Wildnis
+     Location: Ludwigsthal | Category: Umweltbildungszentrum
+     Email: hzw@npv-bw.bayern.de
+     Description: NP-Besucherzentrum, interaktive Ausstellungen, Wildgehege, Umweltbildung
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+120. [5] Wildniscamp am Falkenstein
+     Location: Lindberg | Category: Erlebnispaedagogik
+     Email: wcf@npv-bw.bayern.de
+     Description: Themenuebernachtung (Baumhaus, Erdhoehle, Waldzelt), Wildnispaed., Schulklassen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+121. [5] Nationalpark Thayatal
+     Location: Hardegg | Category: Nationalpark/Umweltbildung
+     Email: office@np-thayatal.at
+     Description: Wildkatzen-Erlebnis, Ranger-Touren, Schulprogramme, kleinste Stadt Oesterreichs
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+122. [5] Naturpark Blockheide Gmuend
+     Location: Gmuend | Category: Naturpark/Umweltbildung
+     Email: blockheide@gmuend.at
+     Description: Granitformation-Naturpark, gef. Wanderungen, Schulprogramme, Steinwelten
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+123. [5] Nationalpark Hohe Tauern (Salzburg)
+     Location: Mittersill | Category: Nationalpark/Umweltbildung
+     Email: nationalparkrat@salzburg.gv.at
+     Description: Groesster NP Mitteleuropas, Rangerprogramme, Klimaschule, Science Center Mittersill
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+124. [5] JUFA Hotel Eisenerz
+     Location: Eisenerz | Category: JUFA Hotel
+     Email: eisenerz@jufa.eu
+     Description: Im Erzberg-Gebiet, Outdooraktivitaeten, Schulgruppen, Seminarraeume
+     Aktion: Outreach
+     Status: Ausstehend
+
+125. [5] JUFA Hotel Schloss Roethelstein Admont
+     Location: Admont | Category: JUFA Hotel
+     Email: admont@jufa.eu
+     Description: Schloss-Hotel am Nationalpark Gesaeuse, Eroeffnung 2026, Schulwochen+Seminare
+     Aktion: Outreach
+     Status: Ausstehend
+
+126. [5] DJH Jugendherberge Haidmuehle
+     Location: Haidmuehle | Category: Jugendherberge
+     Email: haidmuehle@jugendherberge.de
+     Description: 120 Betten, Dreilaendereck AT-DE-CZ, Schullandheim, Natur+Wintersport
+     Aktion: Outreach
+     Status: Ausstehend
+
+127. [5] Junges Hotel Drosendorf
+     Location: Drosendorf | Category: Jugendherberge
+     Email: drosendorf@noejhw.at
+     Description: Mittelalterstadtmauer, Schullandwochen, Gruppenunterkuenfte, Thayatal-Naehe
+     Aktion: Outreach
+     Status: Ausstehend
+
+128. [5] Jugendgaestehaus Franzen
+     Location: Poella/Franzen | Category: Schullandwochen-Quartier
+     Email: gemeinde@poella.at
+     Description: Ehem. Schule als Gruppenhaus, bis 50 Pers., guenstig, Schulwochen, Natur pur
+     Aktion: Outreach
+     Status: Ausstehend
+
+129. [5] Jugendgaestehaus Steiner
+     Location: Eben im Pongau | Category: Schullandwochen-Quartier
+     Email: info@jgh-steiner.com
+     Description: Familienbetrieb, 4500m2 Gelaende, Schulwochen, Gruppenaktivitaeten, nahe Ski Amade
+     Aktion: Outreach
+     Status: Ausstehend
+
+130. [5] Jugendbildungsstaette Waldmuenchen
+     Location: Waldmuenchen | Category: Jugendbildungsstaette
+     Email: office@jugendbildungsstaette.org
+     Description: Erlebnis- und Umweltpaedagogik, Schulklassen, Seminarraeume, 100+ Betten
+     Aktion: Outreach
+     Status: Ausstehend
+
+131. [5] Stift Geras - Akademie Geras
+     Location: Geras | Category: Bildungshaus (Kloster)
+     Email: info@akademiegeras.at
+     Description: Praemonstratenser-Stift, Natur-Bildung, Kraeuter+Ernaehrung, Seminarraeume, Gaestezimmer
+     Aktion: Outreach
+     Status: Ausstehend
+
+132. [5] Biobauernhof Hipp-Bruckner
+     Location: Karlstift | Category: Bauernhof-Paedagogik
+     Email: office@biobauer-bruckner.at
+     Description: Schule am Bauernhof, 850m Seehoehe, Tiere+Felder+Wald, Schulklassen
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+133. [5] Stift Admont - Museumswerkstatt
+     Location: Admont | Category: Kloster/Stift + Bildung
+     Email: museumswerkstatt@stiftadmont.at
+     Description: Aeltestes Stift Steiermarks, Jugend-Workshops (6-14J), Museumswerkstatt, am NP Gesaeuse
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+134. [5] Kolping Tagungshaus Bayerischer Wald
+     Location: Lam | Category: Tagungshaus/Seminarhaus
+     Email: info@haus-bayerischer-wald.de
+     Description: 190 Betten, 5 Tagungsraeume, Jugendcenter, Mini-Club, Oeko-Region Lamer Winkel
+     Aktion: Outreach
+     Status: Ausstehend
+
+135. [5] Geistliches Zentrum Embach
+     Location: Embach/Lend | Category: Bildungshaus/Geistl. Zentrum
+     Email: info@geistliches-zentrum.at
+     Description: 85 Zimmer, Vortragssaal (100 Pers.), Seminarraeume, Gruppenarbeit, Pinzgau
+     Aktion: Outreach
+     Status: Ausstehend
+
+136. [5] Naturhotel Schloss Kassegg
+     Location: St. Gallen (Stmk) | Category: Schullandheim/Naturhotel
+     Email: office@hotel-kassegg.at
+     Description: Schulprojekttage 3-5 Tage, NP-Ranger-Programme, Natur+Geologie, nahe Gesaeuse
+     Aktion: Outreach
+     Status: Ausstehend
+
+137. [5] NaturparkResort Alte Schule
+     Location: Hieflau | Category: Schullandheim/Gruppenhaus
+     Email: naturparkresort@eisenwurzen.com
+     Description: Umgebaute Schule, 4 Apartments, Gruppenunterkuenfte, am NP Gesaeuse+Eisenwurzen
+     Aktion: Outreach
+     Status: Ausstehend
+
+138. [5] Young Austria Erlebnisgaestehaeuser
+     Location: Salzburg | Category: Schullandwochen-Betreiber
+     Email: office@youngaustria.com
+     Description: Betreiber mehrerer Jugendhotels, Sommer-Sportwochen, Schulwochen, professionelle Programme
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+139. [5] Mostviertel Tourismus - Schullandwochen
+     Location: Scheibbs | Category: Plattform/Schullandwochen
+     Email: info@mostviertel.at
+     Description: Buchungsplattform Schullandwochen Mostviertel, verschiedene Unterkuenfte+Programme
+     Aktion: Partnerschaft
+     Status: Ausstehend
+
+140. [5] Landjugend Salzburg
+     Location: Salzburg | Category: Jugendorganisation
+     Email: landjugend@lk-salzburg.at
+     Description: Groesste Jugendorg. Salzburgs, 68 Bezirksvereine, Bildungsprogramme, Camps, Veranstaltungen
+     Aktion: Outreach
+     Status: Ausstehend
+
+141. [5] Landjugend Niederoesterreich
+     Location: St. Poelten | Category: Jugendorganisation
+     Email: noe@landjugend.at
+     Description: Laendliche Jugendarbeit NOe, Bildungsprogramme, Camps, Schulungen, Waldviertel-Bezirke
+     Aktion: Outreach
+     Status: Ausstehend
+
+142. [5] Kreisjugendring Regen
+     Location: Viechtach | Category: Kreisjugendring
+     Email: post@kjr-regen.de
+     Description: Oeffentl.-rechtl. Koerperschaft, Jugendbildung, Freizeit, Praevention, Bayerischer Wald
+     Aktion: Outreach
+     Status: Ausstehend
+
+143. [5] Stadtgemeinde Eisenerz - Ferienpass
+     Location: Eisenerz | Category: Ferienpass Gemeinde
+     Email: gde@eisenerz.at
+     Description: 30 Jahre Ferienpass, 60+ Events, 39 Veranstalter, 1389 Teilnehmer/Jahr, Sport+Kreativ+Natur
+     Aktion: Outreach
+     Status: Ausstehend
+
+144. [5] Landratsamt Rottal-Inn Jugendamt
+     Location: Pfarrkirchen | Category: Ferienpass Gemeinde/Landkreis
+     Email: jugendamt@rottal-inn.de
+     Description: Landkreis-Ferienprogramm, Naturtage mit BUND, mobiles Spielprogramm 14 Gemeinden, 350+ Kinder
+     Aktion: Outreach
+     Status: Ausstehend
+
+145. [5] Gemeinde Iggensbach - Ferienprogramm
+     Location: Iggensbach | Category: Ferienpass Gemeinde
+     Email: poststelle@iggensbach.bayern.de
+     Description: Kinderferienprogramm, Bayerischer Wald, Gemeinde-Kooperation mit Vereinen
+     Aktion: Outreach
+     Status: Ausstehend
+
+146. [5] Marktgemeinde Bad Hofgastein - Ferienprogramm
+     Location: Bad Hofgastein | Category: Ferienpass Gemeinde
+     Email: marktgemeinde@bad-hofgastein.salzburg.at
+     Description: Ferienkalender+Ferienbetreuung, Volksschule, Gasteinertal, 6+ Jahre
+     Aktion: Outreach
+     Status: Ausstehend
+
+
+========================================================================================================================
+GRAND TOTAL: 146 contacts
+========================================================================================================================

@@ -1,0 +1,1001 @@
+================================================================================
+NATURPÄDAGOGIK OBERÖSTERREICH - ELISABETH BRAUNSCHMID
+MASTER PROJECT DOCUMENT
+Version: February 5, 2026
+================================================================================
+
+PROJECT OWNER: Rafael (Rafff)
+CLIENT: Elisabeth Braunschmid
+PROJECT: School-Focused Nature Pedagogy Landing Page & Go-to-Market Strategy
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1. EXECUTIVE SUMMARY
+2. BUSINESS MODEL & TARGET MARKET
+3. SERVICE OFFERINGS
+4. ELISABETH'S PROFILE & CREDENTIALS
+5. WEBSITE DELIVERABLE
+6. PRICING STRATEGY (UPDATED DECISION)
+7. GO-TO-MARKET STRATEGY
+8. KEY DECISIONS & RATIONALE
+9. NEXT ACTIONS
+10. APPENDIX: Perplexity Research Prompts
+
+================================================================================
+1. EXECUTIVE SUMMARY
+================================================================================
+
+WHAT WE'RE BUILDING:
+A professional landing page for Elisabeth Braunschmid's nature-based resilience 
+programs for youth (10-17 years), targeting schools and educational centers 
+in Oberösterreich, Austria.
+
+CRITICAL DISCOVERY (Mid-Project):
+Elisabeth is often hired THROUGH seminar centers/Bildungshäuser, not always 
+directly by schools. This changed our targeting strategy from pure B2C 
+(schools) to B2B2C (centers + schools).
+
+CURRENT STATUS:
+- Website complete (4 pages, 14 photos, mobile responsive)
+- Copy finalized (grounded, honest, personality-aligned)
+- Pricing strategy decided (NO prices on website, "individuelles Angebot")
+- Ready to deploy this week
+
+KEY DELIVERABLES:
+1. ENHANCED-SCHOOL-LANDING.html (ready to deploy)
+2. COMPLETE-SERVICE-PORTFOLIO.md (internal reference)
+3. This master document
+
+================================================================================
+2. BUSINESS MODEL & TARGET MARKET
+================================================================================
+
+BUSINESS NAME: Naturpädagogik Oberösterreich
+OWNER: Elisabeth Braunschmid
+LOCATION: Mühlviertel, Austria
+OPERATING REGION: Oberösterreich + surrounding regions
+
+-------------------------------------------------------------------
+TARGET AUDIENCES (Dual Strategy)
+-------------------------------------------------------------------
+
+PRIMARY AUDIENCE (80% focus):
+- Seminar Centers / Bildungshäuser
+- Jugendherbergen with education programs
+- Outdoor education centers
+- Naturpark education centers
+
+WHY THEY MATTER:
+These are DISTRIBUTION CHANNELS. One partnership = access to their entire 
+school network. They list her program in their catalogs, schools book 
+through them, they pay Elisabeth her day rate.
+
+EXAMPLE FLOW:
+School → Books center's "Naturpädagogik Workshop" → Center hires Elisabeth 
+→ Center pays Elisabeth €600-800/day → Center charges school €800-1,500 
+(including facility, meals, their margin)
+
+SECONDARY AUDIENCE (20% focus):
+- Schools directly (Volksschulen, NMS, Gymnasien)
+- NGOs & youth organizations
+- Municipal youth programs
+
+WHY STILL IMPORTANT:
+- Direct bookings = higher margin (no center middleman)
+- Builds independent brand
+- Fallback when no center partnership exists
+
+-------------------------------------------------------------------
+AGE RANGES
+-------------------------------------------------------------------
+
+FOR SCHOOLS: 10-17 years
+FOR NGOs: 10-21 years (broader, includes young adults)
+
+Current website focuses on schools (10-17 only).
+NGO/holistic healing offerings are separate projects for later.
+
+-------------------------------------------------------------------
+REVENUE MODEL
+-------------------------------------------------------------------
+
+Elisabeth charges (actual rates she receives):
+- Halbtag (3-4h): €600-800
+- Ganztag (6-7h): €1,200-1,500
+- Multi-day: €600-800 per day
+
+Schools/Centers pay more (€800-1,500+ depending on package with 
+facility/meals).
+
+TARGET MONTHLY REVENUE:
+€3,000-5,000 from workshops
+= 4-8 workshop days per month
+= Mix of center partnerships + direct bookings
+
+================================================================================
+3. SERVICE OFFERINGS
+================================================================================
+
+TWO CORE FORMATS (School-Focused):
+
+-------------------------------------------------------------------
+HALBTAGES-PROGRAMM (Half-Day)
+-------------------------------------------------------------------
+
+DURATION: 3-4 hours
+LOCATION: At school (gym, courtyard) OR nearby nature
+PRICE: €600-800 (what Elisabeth receives)
+PARTICIPANTS: Up to 25 students (10-17 years)
+
+WHAT HAPPENS:
+- Arrival & check-in ritual
+- Somatic regulation exercises (breathing, grounding)
+- Group dynamics games (cooperative, non-competitive)
+- Sensory exercises with nature materials
+- Reflection & closing ritual
+
+INCLUDES:
+- All materials brought by Elisabeth
+- Pre-meeting with teachers
+- Follow-up PDF with exercises for classroom use
+
+WORKS:
+- Indoor (gym) & outdoor (schoolyard/park)
+- No weather dependency
+- No transport needed
+- Lower barrier to entry
+
+-------------------------------------------------------------------
+GANZTAGES-PROGRAMM (Full-Day)
+-------------------------------------------------------------------
+
+DURATION: 6-7 hours
+LOCATION: Local nature (forest, park, river) within 30 min of school
+PRICE: €1,200-1,500 (what Elisabeth receives)
+PARTICIPANTS: Up to 25 students (10-17 years)
+
+WHAT HAPPENS:
+- Extended nature immersion
+- Deeper somatic work
+- Survival skills (fire, knots, shelter building)
+- Intensive group reflection
+- Solo time in nature
+- Integration conversation
+
+INCLUDES:
+- All materials & safety equipment
+- Pre-meeting with teachers
+- Extended follow-up session
+- Comprehensive PDF materials
+
+REQUIRES:
+- School arranges transport (bus/train)
+- Weather-dependent (alternative date if needed)
+- Higher commitment from school
+
+-------------------------------------------------------------------
+ADDITIONAL OFFERINGS (Not Primary Focus)
+-------------------------------------------------------------------
+
+For reference only (documented but not emphasized on school site):
+
+3. Multi-Day Retreats (€600-800/day, full-service with accommodation)
+4. Social-Pedagogical Programs for NGOs (10-21 years, vulnerable youth)
+5. Young Adult Team Building (18-21, vocational schools)
+6. Teacher Training Workshops (professional development)
+
+These are in COMPLETE-SERVICE-PORTFOLIO.md for future use.
+
+================================================================================
+4. ELISABETH'S PROFILE & CREDENTIALS
+================================================================================
+
+FULL NAME: Elisabeth "Ellie" Braunschmid
+AGE: ~35-40 (estimate)
+LOCATION: Austria (Mühlviertel region)
+
+-------------------------------------------------------------------
+PROFESSIONAL QUALIFICATIONS
+-------------------------------------------------------------------
+
+✓ Diplomierte Sozialarbeiterin (Licensed Social Worker, FH-Abschluss Austria)
+✓ Wildnispädagogin (Certified Wilderness Educator)
+✓ Gründerin & ehemalige Leiterin: 2 Waldkindergärten im Mühlviertel
+✓ 8+ Jahre Erfahrung with children & youth (10-17 primary focus)
+✓ Spezialisierung: Youth in transition phases
+✓ Fortbildung: Trauma-informed pedagogy & somatic regulation
+✓ Background: Raised on family tree nursery (generational nature knowledge)
+
+-------------------------------------------------------------------
+PERSONALITY PROFILE (Important for Copy Tone)
+-------------------------------------------------------------------
+
+HUMAN DESIGN: Projector 1/3 (Splenic Authority)
+- Projector = Waits to be invited, doesn't initiate/push
+- 1/3 Line = Investigator/Martyr (learns through trial/error)
+- Energy type = Advisor, not doer
+- NOT supposed to: Self-promote, convince, guarantee outcomes
+
+VEDIC ASTROLOGY: Sagittarius Rising in Saturn Mahadasha
+- Philosophical, truth-oriented
+- Saturn = Discipline, humility, structure, groundedness
+- NOT flashy, NOT self-promotional
+- Values: Honesty over hype
+
+ENTP (MBTI):
+- Pattern recognition (sees what works/doesn't work)
+- Experimental approach
+- NOT rigid, NOT formula-based
+
+IMPLICATIONS FOR COPY:
+❌ Avoid: "Mit mir arbeiten" (initiating)
+✅ Use: "Anfrage stellen" (receptive)
+
+❌ Avoid: "Transform your classroom!" (guarantees)
+✅ Use: "Programme, die funktionieren können" (realistic)
+
+❌ Avoid: "I have rare talent" (guru positioning)
+✅ Use: "8 Jahre Versuch und Irrtum" (humble truth)
+
+❌ Avoid: Prescriptive language ("You must...")
+✅ Use: Observational language ("What I've seen...")
+
+-------------------------------------------------------------------
+PERSONAL CONTEXT
+-------------------------------------------------------------------
+
+HUSBAND: Rafael (Rafff) - the project manager for this site
+RAFAEL'S ROLE: Tech implementation, strategy, systems (NOT facilitation)
+RAFAEL'S CONSTRAINT: 2-4 focused hours/day max (ADHD)
+
+ELISABETH'S OTHER BUSINESS: "Wandel Weise" (holistic healing for adults)
+- Separate from school work
+- B2C somatic healing, nature-based transformation
+- Separate website to be built later
+
+================================================================================
+5. WEBSITE DELIVERABLE
+================================================================================
+
+FILE: ENHANCED-SCHOOL-LANDING.html
+STATUS: Complete, ready to deploy
+PAGES: 4 (Home | Über mich | Programme | Kontakt)
+IMAGES: 14 total (stock photos, replaceable with real ones)
+DESIGN: Lovable/GPT Engineer aesthetic (warm cream, serif, clean)
+
+-------------------------------------------------------------------
+PAGE BREAKDOWN
+-------------------------------------------------------------------
+
+HOME PAGE:
+- Hero section (text left, image right)
+  - Headline: "Naturbasierte Programme für Jugendliche, die Ruhe brauchen"
+  - Subtitle emphasizes flexibility (indoor/outdoor)
+  - CTA: "Anfrage stellen"
+- Trust bar with 4 stats (50+ workshops, 600+ students, 8+ years, 2 
+  Waldkindergärten)
+- Elisabeth quote section (observational, not prescriptive)
+- 3 benefit cards (Somatische Regulation, Gruppendynamik, Trauma-informed)
+- 3 general testimonials (no fake names)
+- Mini photo gallery (6 images)
+- Lead magnet section (5 Nature Practices PDF offer)
+
+ÜBER MICH (About):
+- Hero layout: Portrait photo left, bio text right
+- Humble, first-person voice
+- Emphasizes trial/error (1/3 line authenticity)
+- Credentials list (including 2 Waldkindergärten)
+- "Why both qualifications matter" explanation
+- 2 action photos
+
+PROGRAMME:
+- 2 programme cards (Halbtag, Ganztag)
+- NO PRICES SHOWN (as of latest decision)
+- Each card shows: Duration, location, what's included
+- Seminar center invitation (subtle paragraph)
+- 4 example photos with captions
+- Indoor adaptability emphasized
+
+KONTAKT (Contact):
+- Form with fields:
+  - Name, Email, Organization/School name
+  - "Ich bin ein/e..." dropdown (Schule / Seminar center / NGO / Andere)
+  - Timeframe, Message
+- Email visible: info@naturpaedagogik-ooe.at (PLACEHOLDER - needs real email)
+- Phone NOT shown until after contact
+
+-------------------------------------------------------------------
+DESIGN SPECIFICATIONS
+-------------------------------------------------------------------
+
+COLORS:
+- Background: #f5f1ed (warm cream)
+- White cards: #ffffff
+- Text dark: #3d3935
+- Text medium: #6b6560
+- Text light: #9a9490
+- Button/accent: #3d5a52 (teal/forest green)
+- Border: #e8e4df
+
+TYPOGRAPHY:
+- Headlines: Playfair Display (serif, elegant)
+- Body: Inter (sans-serif, clean)
+- Font weights: 300, 400, 500, 600, 700
+
+RESPONSIVE:
+- Desktop: Full multi-column layouts
+- Tablet (<1024px): Stacked columns
+- Mobile (<768px): Single column, compact spacing
+- Mini (<480px): Optimized touch targets
+
+-------------------------------------------------------------------
+TECHNICAL NOTES
+-------------------------------------------------------------------
+
+- Single HTML file (no external CSS/JS dependencies except Google Fonts)
+- Page navigation via JavaScript (showPage function)
+- Form submission shows alert (needs backend integration)
+- All images use Unsplash URLs (need replacing with real photos)
+- Color-scheme forced to light (overrides browser dark mode)
+
+-------------------------------------------------------------------
+WHAT STILL NEEDS UPDATING BEFORE LAUNCH
+-------------------------------------------------------------------
+
+CRITICAL:
+1. Replace email: info@naturpaedagogik-ooe.at → REAL EMAIL
+2. Test form submission (currently just shows alert)
+
+OPTIONAL (Can do after launch):
+3. Replace stock photos with real workshop photos
+4. Add real testimonials (currently using general ones)
+5. Design lead magnet PDF in Canva
+6. Connect lead magnet to email capture tool
+7. Set up analytics (Google Analytics or similar)
+
+================================================================================
+6. PRICING STRATEGY (UPDATED DECISION - FEB 5, 2026)
+================================================================================
+
+-------------------------------------------------------------------
+WHAT WE KNOW (Facts)
+-------------------------------------------------------------------
+
+ELISABETH'S ACTUAL RATES (What she receives):
+- Halbtag: €600-800
+- Ganztag: €1,200-1,500
+
+These are NOT made-up estimates. These are real rates she's been paid.
+
+SCHOOLS/CENTERS PAY MORE:
+Centers charge schools €800-1,500+ (includes their facility, meals, margin)
+So Elisabeth's rates are FAIR, not expensive.
+
+-------------------------------------------------------------------
+THE PROBLEM WITH SHOWING PRICES
+-------------------------------------------------------------------
+
+ISSUE 1: Sticker Shock Before Value
+- Visitor sees €800 → "Too expensive" → Leaves immediately
+- No chance to understand value
+- No relationship building
+- No conversation opportunity
+
+ISSUE 2: One-Size-Fits-All Impression
+- Reality: Prices vary by group size, location, timing
+- Showing fixed range feels inflexible
+- Discourages inquiries from those who might negotiate
+
+ISSUE 3: Austrian Education Sector Norms
+- "Auf Anfrage" is VERY common in this sector
+- Educational services rarely show exact pricing
+- Facilitators typically quote per inquiry
+
+-------------------------------------------------------------------
+DECISION: NO PRICES ON WEBSITE (Individuelles Angebot)
+-------------------------------------------------------------------
+
+WHAT WE SHOW INSTEAD:
+
+Programme cards say:
+"Individuelles Angebot
+Preis abhängig von Gruppengröße, Standort und Ihrer spezifischen Situation."
+
+CTA: "Anfrage stellen"
+
+-------------------------------------------------------------------
+WHY THIS IS BETTER
+-------------------------------------------------------------------
+
+✅ Every interested lead enters the funnel (no price filtering)
+✅ Build relationship before price discussion
+✅ Can customize offer based on their budget/situation
+✅ Room to negotiate for long-term partnerships
+✅ Aligns with Austrian education sector norms
+✅ Protects against competitor price undercutting
+✅ Allows testing different price points in conversations
+
+-------------------------------------------------------------------
+HOW IT WORKS IN PRACTICE
+-------------------------------------------------------------------
+
+STEP 1: Visitor fills out contact form
+STEP 2: Elisabeth emails back within 24-48h with:
+  "Basierend auf Ihrer Anfrage (25 Schüler, Halbtag, März):
+   Mein Angebot: €700 (inkl. alle Materialien, Vor- und Nachbesprechung)
+   Das entspricht €28 pro Schüler*in.
+   Passt das in Ihr Budget?"
+
+STEP 3: If yes → Schedule call → Book
+STEP 4: If no → "Was wäre machbar?" → Negotiate if possible
+
+-------------------------------------------------------------------
+DATA COLLECTION PLAN
+-------------------------------------------------------------------
+
+After 10-20 inquiries, analyze:
+- What price do most accept?
+- Did lack of pricing hurt conversion?
+- Do people ask about price before inquiring?
+
+THEN DECIDE:
+- Add "Ab €600" soft pricing if it helps conversion
+- Keep "auf Anfrage" if it's working fine
+
+This is ITERATIVE, not permanent.
+
+-------------------------------------------------------------------
+FALLBACK FOR PRICE QUESTIONS
+-------------------------------------------------------------------
+
+If someone emails asking "How much?":
+
+RESPONSE TEMPLATE:
+"Danke für Ihr Interesse! 
+Die Investition hängt von einigen Faktoren ab:
+- Gruppengröße
+- Halbtag oder Ganztag
+- Standort (Anreisezeit)
+- Zeitraum (Wochentag vs. Wochenende)
+
+Richtwert: Die meisten Schulen investieren zwischen €600-900 für einen 
+Halbtag mit 25 Schüler*innen.
+
+Können Sie mir mehr über Ihre Situation erzählen? Dann kann ich Ihnen 
+ein genaues Angebot machen."
+
+This gives context without committing to exact price upfront.
+
+================================================================================
+7. GO-TO-MARKET STRATEGY
+================================================================================
+
+-------------------------------------------------------------------
+DUAL-TRACK APPROACH
+-------------------------------------------------------------------
+
+TRACK A: SEMINAR CENTER PARTNERSHIPS (80% effort)
+Target: Get listed in 5-10 center catalogs
+Method: Direct outreach to program coordinators
+Goal: Let them market to schools, Elisabeth just delivers
+
+TRACK B: DIRECT SCHOOL SALES (20% effort)
+Target: Schools who find her website
+Method: SEO, local directories, word-of-mouth
+Goal: Higher margin, independent brand
+
+-------------------------------------------------------------------
+TRACK A: SEMINAR CENTER OUTREACH (Priority)
+-------------------------------------------------------------------
+
+STEP 1: Build Target List (Week 1)
+Identify 20 centers in OÖ:
+- Bildungshäuser
+- Jugendherbergen with education programs
+- Outdoor education centers
+- Naturpark centers
+
+STEP 2: Research Each (Week 1)
+- What programs do they currently offer?
+- Who's the program coordinator?
+- Do they have nature-based offerings already?
+- What's their school audience?
+
+STEP 3: Personalized Outreach (Week 2-3)
+Email template (see Perplexity prompt section for target research):
+
+---
+Subject: Programm-Ergänzung: Naturpädagogik für Schulgruppen 10-17 Jahre
+
+Guten Tag [Name],
+
+Ich bin Elisabeth Braunschmid – Wildnispädagogin und diplomierte 
+Sozialarbeiterin aus dem Mühlviertel.
+
+Viele Schulen suchen derzeit nach Angeboten zur Stärkung von 
+Gruppendynamik und Selbstregulation für Jugendliche 10-17 Jahre.
+
+Ich biete flexible Programme (Halbtag bis Mehrtägig), die sich gut 
+in Ihr Portfolio integrieren lassen:
+
+✓ Funktioniert indoor (Turnsaal) & outdoor
+✓ Keine spezielle Infrastruktur nötig
+✓ Komplette Marketing-Unterlagen für Ihre Kataloge
+✓ Zuverlässige, professionelle Abwicklung
+✓ 8+ Jahre Erfahrung, 50+ Workshops durchgeführt
+
+Wäre ein kurzes Kennenlernen interessant? 
+Ich schicke Ihnen gerne die Programmbeschreibung zu.
+
+Beste Grüße,
+Elisabeth Braunschmid
+[Email] | [Telefon] | [Website]
+---
+
+STEP 4: Follow-Up (Week 3-4)
+- Phone call after 5 days if no response
+- Send program description PDF
+- Offer free demo workshop
+
+STEP 5: Onboarding (Ongoing)
+Once partnership secured:
+- Provide marketing copy for their catalog
+- Professional photos for their website
+- Availability calendar
+- Booking process agreement
+
+-------------------------------------------------------------------
+TRACK B: DIRECT SCHOOL OUTREACH (Secondary)
+-------------------------------------------------------------------
+
+ORGANIC METHODS:
+1. Website SEO (keywords: "Naturpädagogik Oberösterreich", etc.)
+2. Google My Business listing
+3. Local education directories
+4. LinkedIn posts (leverage Rafff's 36k network)
+5. Word-of-mouth referrals
+
+PAID METHODS (Later):
+- Google Ads (local targeting)
+- Facebook ads to school groups
+- Sponsored posts in education forums
+
+-------------------------------------------------------------------
+LEAD MAGNET FUNNEL
+-------------------------------------------------------------------
+
+OFFER: "5 Natur-basierte Aktivitäten zur Beruhigung Ihrer Klasse"
+FORMAT: PDF download
+GATE: Email address required
+
+CONTENT (Ready, needs Canva design):
+1. Baum-Atmung (Tree Breathing, 5 min)
+2. Erdungs-Übung (Grounding, 3-5 min)
+3. Naturmaterialien-Fokus (Nature Materials, 7-10 min)
+4. Wurzel-Metapher (Root Metaphor, 8-10 min)
+5. Abschlussritual (Closing Ritual, 5 min)
+
+Each includes:
+- Step-by-step instructions
+- Why it works (nervous system science)
+- When to use it
+- Variations
+
+EMAIL SEQUENCE (After Download):
+Day 1: "Danke für den Download" + Introduction
+Day 3: "Warum Naturpädagogik funktioniert" (case study)
+Day 7: "Was Schulen sagen" (testimonials)
+Day 10: "Bereit für ein Gespräch?" (CTA to book consultation)
+
+-------------------------------------------------------------------
+SUCCESS METRICS
+-------------------------------------------------------------------
+
+MONTH 1 (Foundation):
+✓ Website live
+✓ 20 seminar centers identified
+✓ 5 outreach emails sent
+✓ 10+ email subscribers (lead magnet)
+✓ 2-3 inquiry conversations
+
+MONTH 2-3 (Traction):
+✓ Listed in 2-3 center catalogs
+✓ 50+ email subscribers
+✓ 1-2 workshops booked (through centers or direct)
+✓ First testimonials collected
+✓ €1,500-2,000 revenue
+
+MONTH 6 (Established):
+✓ 5+ center partnerships
+✓ 150+ email subscribers
+✓ 4-6 workshops/month
+✓ €3,000-4,000 monthly revenue
+✓ Referral program launched
+
+-------------------------------------------------------------------
+KILL SWITCHES (When to Pivot)
+-------------------------------------------------------------------
+
+IF after 20 center emails → 0 responses:
+ACTION: Revise pitch, try phone calls instead
+
+IF after 3 months → <2 workshops booked:
+ACTION: Reassess pricing, market fit, or messaging
+
+IF after 6 months → Not hitting €2,000/month:
+ACTION: Consider pivoting to holistic (Wandel Weise) as primary
+
+================================================================================
+8. KEY DECISIONS & RATIONALE
+================================================================================
+
+-------------------------------------------------------------------
+DECISION 1: Build School Site First (Not Holistic)
+-------------------------------------------------------------------
+
+RATIONALE:
+- School work is established (8+ years, 50+ workshops)
+- Proven demand, proven delivery
+- Clear target market
+- B2B easier to scale than B2C holistic
+- Holistic (Wandel Weise) can come later once school income stabilized
+
+-------------------------------------------------------------------
+DECISION 2: Dual Audience (Centers + Schools)
+-------------------------------------------------------------------
+
+RATIONALE:
+- Discovery: Centers are major distribution channel
+- Can't ignore schools (they still book direct)
+- Website serves both without confusing either
+- Future-proofs against overreliance on centers
+
+-------------------------------------------------------------------
+DECISION 3: Remove Pricing from Website
+-------------------------------------------------------------------
+
+RATIONALE:
+- Sticker shock kills leads before value established
+- Austrian education sector norms ("auf Anfrage" common)
+- Flexibility to negotiate based on situation
+- Can test pricing in conversations, optimize later
+- Every inquiry enters funnel for relationship building
+
+-------------------------------------------------------------------
+DECISION 4: Grounded, Humble Copy Tone
+-------------------------------------------------------------------
+
+RATIONALE:
+- Elisabeth's personality (Projector, Saturn, ADHD background)
+- NOT guru, NOT savior, NOT guarantees
+- Honest about trial/error, limitations
+- Builds trust through authenticity, not hype
+- Stands out in market of exaggerated claims
+
+-------------------------------------------------------------------
+DECISION 5: General Testimonials (No Fake Names)
+-------------------------------------------------------------------
+
+RATIONALE:
+- Elisabeth has real clients who love her work
+- Don't have specific names/permissions yet
+- General attributions ("Eine Lehrerin...") are honest
+- Avoids risk of fabricated, checkable testimonials
+- Can add specific ones later when collected
+
+-------------------------------------------------------------------
+DECISION 6: Emphasize Indoor/Outdoor Flexibility
+-------------------------------------------------------------------
+
+RATIONALE:
+- Major barrier for schools: "We don't have access to nature"
+- Indoor adaptability removes objection
+- Widens market (urban schools, winter months)
+- True to reality (she can work indoor)
+- Competitive advantage
+
+-------------------------------------------------------------------
+DECISION 7: Include Waldkindergarten Prominently
+-------------------------------------------------------------------
+
+RATIONALE:
+- Massive credibility booster
+- Proves long-term nature education experience
+- Differentiates from hobby facilitators
+- Shows entrepreneurial ability (founded, operated)
+- Was missing from initial drafts (critical oversight)
+
+-------------------------------------------------------------------
+DECISION 8: Lead Magnet as Primary CTA (Not Direct Booking)
+-------------------------------------------------------------------
+
+RATIONALE:
+- Lower commitment entry point
+- Builds email list for nurturing
+- Demonstrates value before asking for meeting
+- Common in education marketing
+- Allows multiple touchpoints before sale
+
+================================================================================
+9. NEXT ACTIONS
+================================================================================
+
+-------------------------------------------------------------------
+THIS WEEK (LAUNCH PREP)
+-------------------------------------------------------------------
+
+RAFFF'S TASKS:
+[ ] Replace placeholder email in website with real address
+[ ] Deploy website to Netlify (free hosting)
+    - URL will be: https://[project-name].netlify.app
+[ ] Test website on mobile + desktop
+[ ] Set up basic analytics (Google Analytics or Plausible)
+
+ELISABETH'S TASKS:
+[ ] Provide real email address for contact form
+[ ] Provide real phone number (can hide until after inquiry)
+[ ] Review final website copy for accuracy
+[ ] Approve launch
+
+OPTIONAL (Can wait):
+[ ] Replace stock photos with real workshop photos
+[ ] Professional photoshoot (outdoor + portrait)
+
+-------------------------------------------------------------------
+WEEK 2 (OUTREACH PREP)
+-------------------------------------------------------------------
+
+RAFFF'S TASKS:
+[ ] Research 20 seminar centers in OÖ (see Perplexity prompt)
+[ ] Build spreadsheet: Name, Website, Program Coordinator, Email, Notes
+[ ] Draft center outreach email (customize template above)
+[ ] Create program description PDF for centers (1-pager)
+
+ELISABETH'S TASKS:
+[ ] Request 3-5 testimonials from past clients (simple email template)
+[ ] Gather any existing workshop photos
+[ ] Prepare availability calendar (which months free to book)
+
+BOTH:
+[ ] Review competitor websites (pricing, positioning, programs)
+[ ] Discuss target monthly workshop count (capacity planning)
+
+-------------------------------------------------------------------
+WEEK 3-4 (OUTREACH LAUNCH)
+-------------------------------------------------------------------
+
+ELISABETH'S TASKS:
+[ ] Send 5 outreach emails to seminar centers
+[ ] Follow up with phone calls (Day 5-7 after email)
+[ ] Respond to any inquiries within 24h
+[ ] Track: Response rate, conversations, partnerships
+
+RAFFF'S TASKS:
+[ ] Set up email automation (welcome sequence for lead magnet)
+[ ] Design lead magnet PDF in Canva (or hire designer)
+[ ] Monitor website analytics (traffic, conversions)
+[ ] Support Elisabeth with CRM/tracking if needed
+
+-------------------------------------------------------------------
+MONTH 2 (ITERATION)
+-------------------------------------------------------------------
+
+[ ] Analyze first 10-20 inquiry conversations
+    - What price did they accept/reject?
+    - What objections came up?
+    - What messaging worked?
+[ ] Update website based on feedback
+[ ] Add real testimonials if collected
+[ ] Optimize conversion points
+[ ] Scale outreach if initial results positive
+
+================================================================================
+10. APPENDIX: PERPLEXITY RESEARCH PROMPTS
+================================================================================
+
+-------------------------------------------------------------------
+PROMPT 1: IDENTIFY SEMINAR CENTERS IN OBERÖSTERREICH
+-------------------------------------------------------------------
+
+Use this prompt in Perplexity to find target organizations:
+
+---
+I need to identify educational seminar centers, Bildungshäuser, youth hostels 
+with education programs, and outdoor education providers in Oberösterreich 
+(Upper Austria) that work with schools.
+
+Please provide:
+
+1. A list of 15-20 organizations including:
+   - Organization name
+   - Type (Bildungshaus, Jugendherberge, Outdoor center, etc.)
+   - Location (city/region)
+   - Website URL
+   - Do they offer school programs? (Yes/No)
+   - Contact person/role if available (e.g., "Program Coordinator")
+
+2. Focus on organizations that:
+   - Serve school groups (ages 10-17)
+   - Offer multi-day programs or workshops
+   - Have nature/outdoor components in their offerings
+   - Are located in or serve Oberösterreich
+
+3. Include both:
+   - Large, established centers (Jugendherberge network, major Bildungshäuser)
+   - Smaller, specialized providers (outdoor education, nature pedagogy)
+
+Format as a table for easy spreadsheet import.
+---
+
+-------------------------------------------------------------------
+PROMPT 2: COMPETITIVE LANDSCAPE ANALYSIS
+-------------------------------------------------------------------
+
+Use this prompt to understand the market:
+
+---
+I need to research the competitive landscape for nature-based educational 
+workshops for schools in Austria, specifically focusing on:
+
+1. Who are the main providers of:
+   - Wildnispädagogik (wilderness pedagogy)
+   - Naturpädagogik (nature pedagogy)
+   - Outdoor education workshops
+   - School group programs with nature components
+
+2. For each competitor, please find:
+   - Organization/person name
+   - Website URL
+   - Do they show pricing on their website? (Yes/No)
+   - If yes, what format? (Fixed price, range, "ab €X", "auf Anfrage")
+   - Approximate price range if shown
+   - Target age groups
+   - Geographic focus
+
+3. Specific focus on Oberösterreich (Upper Austria) but also include:
+   - Vienna region
+   - Salzburg region
+   - Steiermark (Styria)
+
+4. Look for both:
+   - Individual facilitators/educators
+   - Organizations/companies
+   - Freelance wilderness educators
+
+Provide 10-15 examples with as much pricing/positioning detail as available.
+---
+
+-------------------------------------------------------------------
+PROMPT 3: AUSTRIAN EDUCATION SECTOR NORMS
+-------------------------------------------------------------------
+
+Use this prompt to understand pricing transparency norms:
+
+---
+I need to understand pricing transparency norms in the Austrian educational 
+services sector, specifically for:
+
+1. Workshop facilitators who work with schools
+2. External education providers (nature education, social-emotional learning)
+3. Bildungshäuser and seminar centers
+
+Questions to research:
+
+1. Is it common for educational facilitators in Austria to show prices 
+   publicly on their websites?
+   
+2. What pricing formats are most common?
+   - Fixed prices
+   - Price ranges
+   - "Ab €X" (starting at)
+   - "Auf Anfrage" (on request)
+   - Day rates
+   - Per-participant pricing
+
+3. For nature pedagogy / outdoor education specifically:
+   - What do schools typically pay per workshop day?
+   - What's considered affordable vs. expensive?
+   - Do facilitators typically charge schools directly or through centers?
+
+4. What are standard day rates for:
+   - Independent facilitators with 5-10 years experience
+   - Licensed social workers doing education work
+   - Wilderness educators / nature pedagogues
+
+Please cite specific Austrian sources (education associations, facilitator 
+directories, pricing guides) if available.
+---
+
+-------------------------------------------------------------------
+PROMPT 4: SCHOOL DIRECTORY FOR OUTREACH (If Direct Sales)
+-------------------------------------------------------------------
+
+Use this prompt if doing direct school outreach:
+
+---
+I need contact information for schools in Oberösterreich (Upper Austria) 
+that might be interested in nature-based workshops for students ages 10-17.
+
+Please provide:
+
+1. A list of 20-30 schools including:
+   - School name
+   - Type (Volksschule, NMS, Gymnasium)
+   - Location (city/district)
+   - Student age range
+   - Website URL
+   - General contact email (if publicly available)
+   - School size (small/medium/large if available)
+
+2. Focus on:
+   - Neue Mittelschulen (NMS) - ages 10-14
+   - Gymnasien Unterstufe - ages 10-14
+   - Gymnasien Oberstufe - ages 14-18
+   - Located in or near: Linz, Steyr, Wels, and Mühlviertel region
+
+3. Prioritize schools that:
+   - Have shown interest in outdoor/alternative education
+   - Participate in "Gesunde Schule" programs
+   - Have environmental/sustainability focus
+   - Are known for progressive pedagogy
+
+Format as a table for CRM import.
+---
+
+-------------------------------------------------------------------
+PROMPT 5: TESTIMONIAL COLLECTION RESEARCH
+-------------------------------------------------------------------
+
+Use this prompt to learn best practices:
+
+---
+I need to understand best practices for collecting and displaying testimonials 
+in the Austrian educational services sector.
+
+Research:
+
+1. How do educational facilitators in Austria typically collect testimonials?
+   - Email request templates
+   - Post-workshop surveys
+   - Video testimonials
+   - Written statements
+
+2. What information is typically included?
+   - Full name + title (e.g., "Dir. Mag. Maria Schmidt")
+   - First name only (e.g., "Maria, Lehrerin")
+   - Anonymous role only (e.g., "Eine Direktorin")
+   - School name or not?
+
+3. Legal/privacy considerations:
+   - Do you need written permission (DSGVO)?
+   - Can you use testimonials from minors (students)?
+   - What's safe practice for public websites?
+
+4. Examples of strong testimonial formats:
+   - Find 5-10 Austrian education provider websites
+   - Screenshot how they display testimonials
+   - What format seems most credible/effective?
+
+Focus on: Austrian context, education sector, DSGVO compliance.
+---
+
+================================================================================
+END OF MASTER DOCUMENT
+================================================================================
+
+DOCUMENT METADATA:
+- Created: February 5, 2026
+- Version: 1.0 (Launch-Ready)
+- Author: Rafael (Rafff)
+- Client: Elisabeth Braunschmid
+- Project: Naturpädagogik Oberösterreich Website & Strategy
+
+FILES REFERENCED:
+- ENHANCED-SCHOOL-LANDING.html (website)
+- COMPLETE-SERVICE-PORTFOLIO.md (service documentation)
+
+NEXT UPDATE: After first 10 inquiries/conversations (for pricing iteration)
+
+================================================================================
